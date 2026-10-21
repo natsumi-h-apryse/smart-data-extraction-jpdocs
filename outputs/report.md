@@ -26,6 +26,16 @@
 3. **Structure extraction works only on some digitally generated PDFs, and returns no text for OCR'd scanned PDFs.** The invisible text layer added by IRIS OCR is used by KVE, table extraction and classification, but DocStructure ignored it and treated the pages as images (all 3 documents). Only the scanned contract was re-read with the built-in OCR, and the result has many misrecognized characters.
 4. **Form field detection mostly finds input fields enclosed by ruled lines** (marriage registration form, signature certificate application). However, some checkboxes, already-checked fields and the placement of signature fields are wrong, so the output PDF needs manual fixes to its fields.
 
+* For Driver's license, some keys/values are detected, while the most important ones which is name/date of birth are not.
+<img width="1069" height="766" alt="Screenshot 2026-10-20 at 9 40 15 PM" src="https://github.com/user-attachments/assets/d71c1b6f-2a6b-49a6-8fd0-4c4519be6f8b" />
+
+* For Sales invoice, the total sum is not captured as key/value, also the attention name is tagged with some inappropriate texts.
+<img width="1198" height="833" alt="Screenshot 2026-10-20 at 9 39 20 PM" src="https://github.com/user-attachments/assets/692503bd-6423-4117-9c3a-0ded7b8439fb" />
+
+* For form field detection, huge amount of human-in-the-loop adjustment is required compared with the english form documents.
+<img width="1031" height="713" alt="Screenshot 2026-10-20 at 9 47 03 PM" src="https://github.com/user-attachments/assets/aa5f8aac-c551-4864-95ec-be85245c212e" />
+
+
 ## 2. Overall results
 
 | Document                                  | Content                                                         | Text layer                  | Classification                 | KVE | Table | Structure | Form fields |
