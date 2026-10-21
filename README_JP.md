@@ -12,7 +12,7 @@ Apryse Server SDK の Smart Data Extraction（Data Extraction モジュール）
 | `docstructureextraction.js` | ドキュメント構造抽出 | `e_DocStructure` |
 | `formfielddetection.js` | フォームフィールド検出（`inputs/form/` のみ） | `e_Form`＋`detectAndAddFormFieldsToPDF` |
 
-検証結果のまとめは [`outputs/report.md`](outputs/report.md) を参照してください。
+検証結果のまとめは [`outputs/report_jp.md`](outputs/report_jp.md) を参照してください。
 
 ## フォルダ構成
 
@@ -25,7 +25,8 @@ sde-jp/
 ├── inputs/               # 入力 PDF（サブフォルダも対象）
 │   └── form/             # フォーム PDF（フォームフィールド検出の対象）
 └── outputs/
-    ├── report.md         # 全体の検証レポート
+    ├── report.md         # 全体の検証レポート（英語）
+    ├── report_jp.md      # 全体の検証レポート（日本語）
     ├── docClassification/
     ├── keyValueExtraction/
     ├── tabularExtraction/
@@ -81,7 +82,7 @@ docker run --rm --env-file .env -v "$PWD/outputs:/app/outputs" sde-jp \
 ## 注意事項
 
 - **テキスト層のない PDF はスキップします。**
-- **トライアルライセンスの評価用シート:** トライアルでは、出力にランダムな位置で評価用のページが 1 枚差し込まれます（フォーム検出の出力 PDF にも入ります）。`results.md` と `report.md` では、このページを除外して集計しています。
+- **トライアルライセンスの評価用シート:** トライアルでは、出力にランダムな位置で評価用のページが 1 枚差し込まれます（フォーム検出の出力 PDF にも入ります）。`results.md` と `report_jp.md` では、このページを除外して集計しています。
 - **ライセンスキー:** 各スクリプトは環境変数 `APRYSE_LICENSE_KEY` からキーを読み込みます。未設定の場合はエラーで終了します。キーを変更するときは `.env` を書き換えてください（イメージの作り直しは不要です）。
 - **バージョンは 12.1.0 に固定しています。** `@pdftron/data-extraction` 12.2.0 の AIPageObjectExtractor（分類・KVE・フォーム検出）は、Apple Silicon の Mac 上の amd64 エミュレーション（Rosetta）で `Illegal instruction`（signal 4）になり実行できないためです。x86_64 の実機（Linux / Windows / クラウド VM）であれば 12.2.0 も使える見込みです（未検証）。その場合は `package.json` と `Dockerfile` のバージョンを合わせて変更してください。
 - **XLSX 出力と日本語ファイル名:** コンテナを UTF-8 ロケールにしないと、表抽出の XLSX 出力が失敗します（`Dockerfile` で `LANG=C.UTF-8` を設定済み）。

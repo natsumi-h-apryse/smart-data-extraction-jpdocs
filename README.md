@@ -10,7 +10,7 @@ Samples for running and evaluating Smart Data Extraction (the Data Extraction mo
 | `docstructureextraction.js` | Document structure extraction | `e_DocStructure` |
 | `formfielddetection.js` | Form field detection (`inputs/form/` only) | `e_Form` + `detectAndAddFormFieldsToPDF` |
 
-For a summary of the evaluation results, see [`outputs/report.md`](outputs/report.md) (in Japanese).
+For a summary of the evaluation results, see [`outputs/report.md`](outputs/report.md).
 
 ## Folder structure
 
@@ -23,7 +23,8 @@ sde-jp/
 ├── inputs/               # Input PDFs (subfolders included)
 │   └── form/             # Form PDFs (used for form field detection)
 └── outputs/
-    ├── report.md         # Overall evaluation report
+    ├── report.md         # Overall evaluation report (English)
+    ├── report_jp.md      # Overall evaluation report (Japanese)
     ├── docClassification/
     ├── keyValueExtraction/
     ├── tabularExtraction/
