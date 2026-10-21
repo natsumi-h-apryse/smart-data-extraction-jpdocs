@@ -1,0 +1,250 @@
+{
+  "properties": {
+    "producer": "formExtract",
+    "schemaVersion": "1.0",
+    "coordinateSystem": "originTop"
+  },
+  "runInfo": {
+    "warnings": [
+      "Apryse AI trial mode."
+    ],
+    "producerPlatform": "Linux",
+    "producerVersion": "2.2.3-66ca186"
+  },
+  "pages": [
+    {
+      "properties": {
+        "pageNumber": 1
+      },
+      "formElements": [
+        {
+          "type": "formCheckBox",
+          "confidence": 0.987,
+          "rect": [
+            329.045,
+            220.599,
+            343.22,
+            233.754
+          ]
+        },
+        {
+          "type": "formCheckBox",
+          "confidence": 0.991,
+          "rect": [
+            82.008,
+            220.599,
+            97.195,
+            233.754
+          ]
+        },
+        {
+          "type": "formTextField",
+          "confidence": 0.68,
+          "rect": [
+            53.659,
+            287.386,
+            192.365,
+            316.731
+          ]
+        },
+        {
+          "type": "formTextField",
+          "confidence": 0.98,
+          "rect": [
+            287.535,
+            287.386,
+            443.452,
+            316.731
+          ]
+        },
+        {
+          "type": "formTextField",
+          "confidence": 0.679,
+          "rect": [
+            277.411,
+            316.731,
+            341.195,
+            344.053
+          ]
+        },
+        {
+          "type": "formTextField",
+          "confidence": 0.963,
+          "rect": [
+            42.522,
+            315.72,
+            216.664,
+            345.065
+          ]
+        },
+        {
+          "type": "formTextField",
+          "confidence": 0.987,
+          "rect": [
+            122.506,
+            366.316,
+            543.685,
+            394.649
+          ]
+        },
+        {
+          "type": "formTextField",
+          "confidence": 0.993,
+          "rect": [
+            125.543,
+            393.638,
+            541.66,
+            416.912
+          ]
+        },
+        {
+          "type": "formCheckBox",
+          "confidence": 0.875,
+          "rect": [
+            291.585,
+            418.936,
+            302.722,
+            431.079
+          ]
+        },
+        {
+          "type": "formTextField",
+          "confidence": 0.922,
+          "rect": [
+            165.029,
+            419.948,
+            210.589,
+            439.174
+          ]
+        },
+        {
+          "type": "formTextField",
+          "confidence": 0.969,
+          "rect": [
+            213.626,
+            421.971,
+            268.298,
+            440.186
+          ]
+        },
+        {
+          "type": "formTextField",
+          "confidence": 0.912,
+          "rect": [
+            338.157,
+            413.876,
+            537.61,
+            450.305
+          ]
+        },
+        {
+          "type": "formTextField",
+          "confidence": 0.966,
+          "rect": [
+            91.12,
+            448.281,
+            536.597,
+            477.627
+          ]
+        },
+        {
+          "type": "formTextField",
+          "confidence": 0.993,
+          "rect": [
+            79.983,
+            478.639,
+            538.622,
+            506.973
+          ]
+        },
+        {
+          "type": "formCheckBox",
+          "confidence": 0.697,
+          "rect": [
+            230.838,
+            510.009,
+            254.124,
+            532.271
+          ]
+        },
+        {
+          "type": "formCheckBox",
+          "confidence": 0.664,
+          "rect": [
+            360.431,
+            511.021,
+            386.755,
+            532.271
+          ]
+        },
+        {
+          "type": "formTextField",
+          "confidence": 0.975,
+          "rect": [
+            266.274,
+            537.331,
+            365.494,
+            553.521
+          ]
+        },
+        {
+          "type": "formTextField",
+          "confidence": 0.997,
+          "rect": [
+            121.493,
+            578.82,
+            541.66,
+            612.213
+          ]
+        },
+        {
+          "type": "formTextField",
+          "confidence": 0.947,
+          "rect": [
+            126.556,
+            624.356,
+            543.685,
+            653.702
+          ]
+        },
+        {
+          "type": "formTextField",
+          "confidence": 0.695,
+          "rect": [
+            496.099,
+            662.809,
+            534.573,
+            685.071
+          ]
+        },
+        {
+          "type": "formTextField",
+          "confidence": 0.836,
+          "rect": [
+            135.668,
+            708.346,
+            532.548,
+            746.799
+          ]
+        }
+      ]
+    },
+    {
+      "properties": {
+        "pageNumber": 2
+      },
+      "formElements": [
+        {
+          "type": "formTextField",
+          "confidence": 0.949,
+          "rect": [
+            46.637,
+            52.355,
+            537.76,
+            577.817
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "properties": {
+    "producer": "StructuredOutput",
+    "coordinateSystem": "originTop",
+    "schemaVersion": "1.0"
+  },
+  "pages": [
+    {
+      "properties": {
+        "pageNumber": 1,
+        "rotation": 0,
+        "width": 612,
+        "height": 792
+      },
+      "elements": [
+        {
+          "type": "paragraph",
+          "rect": [
+            36,
+            38.46,
+            257.28,
+            49.46
+          ],
+          "textStyle": {
+            "bold": true,
+            "weight": 700,
+            "italic": false,
+            "underline": false,
+            "pointSize": 11,
+            "fontFace": "Arial",
+            "parentStyle": "Body Text"
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                36,
+                38.46,
+                257.28,
+                49.46
+              ],
+              "text": "Apryse Data Extraction Module trial mode.",
+              "style": {
+                "bold": true,
+                "weight": 700,
+                "italic": false,
+                "underline": false,
+                "pointSize": 11,
+                "fontFace": "Arial"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "rect": [
+            36,
+            58.46,
+            492.65,
+            69.46
+          ],
+          "textStyle": {
+            "bold": true,
+            "weight": 700,
+            "italic": false,
+            "underline": false,
+            "pointSize": 11,
+            "fontFace": "Arial",
+            "parentStyle": "Body Text"
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                36,
+                58.46,
+                492.65,
+                69.46
+              ],
+              "text": "The trial is limited to 100 pages and will insert extra pages into the result (like this one).",
+              "style": {
+                "bold": true,
+                "weight": 700,
+                "italic": false,
+                "underline": false,
+                "pointSize": 11,
+                "fontFace": "Arial"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "properties": {
+        "pageNumber": 2,
+        "rotation": 0,
+        "width": 595.28,
+        "height": 841.89
+      },
+      "elements": [
+        {
+          "type": "group",
+          "rect": [
+            2,
+            0.89,
+            591,
+            841.89
+          ],
+          "contents": [
+            {
+              "type": "image",
+              "rect": [
+                2,
+                0.89,
+                591,
+                841.89
+              ]
+            },
+            {
+              "type": "image",
+              "rect": [
+                205.29,
+                295.02,
+                389.5,
+                547.97
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

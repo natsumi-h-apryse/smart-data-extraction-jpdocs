@@ -1,0 +1,1107 @@
+{
+  "pages": [
+    {
+      "elements": [
+        {
+          "columnWidths": [
+            460
+          ],
+          "groupId": 0,
+          "rect": [
+            34,
+            755,
+            494,
+            722
+          ],
+          "trs": [
+            {
+              "rect": [
+                34,
+                755,
+                494,
+                745
+              ],
+              "tds": [
+                {
+                  "colStart": 0,
+                  "contents": [
+                    {
+                      "baseline": 745,
+                      "rect": [
+                        36,
+                        753.008,
+                        257.27600000000007,
+                        742.69
+                      ],
+                      "text": "Apryse Data Extraction Module trial mode.",
+                      "type": "textLine"
+                    }
+                  ],
+                  "rect": [
+                    34,
+                    755,
+                    494,
+                    745
+                  ],
+                  "rowStart": 0,
+                  "type": "td"
+                }
+              ],
+              "type": "tr"
+            },
+            {
+              "rect": [
+                34,
+                745,
+                494,
+                722
+              ],
+              "tds": [
+                {
+                  "colStart": 0,
+                  "contents": [
+                    {
+                      "baseline": 725,
+                      "rect": [
+                        36,
+                        733.008,
+                        492.6539999999999,
+                        722.69
+                      ],
+                      "text": "The trial is limited to 100 pages and will insert extra pages into the result (like this one).",
+                      "type": "textLine"
+                    }
+                  ],
+                  "rect": [
+                    34,
+                    745,
+                    494,
+                    722
+                  ],
+                  "rowStart": 1,
+                  "type": "td"
+                }
+              ],
+              "type": "tr"
+            }
+          ],
+          "type": "table"
+        }
+      ],
+      "properties": {
+        "pageNumber": 1,
+        "rotation": 0
+      }
+    },
+    {
+      "elements": [
+        {
+          "columnWidths": [
+            187
+          ],
+          "groupId": 1,
+          "rect": [
+            27,
+            763,
+            214,
+            703
+          ],
+          "trs": [
+            {
+              "rect": [
+                27,
+                763,
+                214,
+                750
+              ],
+              "tds": [
+                {
+                  "colStart": 0,
+                  "contents": [
+                    {
+                      "baseline": 750,
+                      "rect": [
+                        30,
+                        762.03125,
+                        72,
+                        748.0859375
+                      ],
+                      "text": "領収書",
+                      "type": "textLine"
+                    }
+                  ],
+                  "rect": [
+                    27,
+                    763,
+                    214,
+                    750
+                  ],
+                  "rowStart": 0,
+                  "type": "td"
+                }
+              ],
+              "type": "tr"
+            },
+            {
+              "rect": [
+                27,
+                750,
+                214,
+                730
+              ],
+              "tds": [
+                {
+                  "colStart": 0,
+                  "contents": [
+                    {
+                      "baseline": 730,
+                      "rect": [
+                        30,
+                        742.03125,
+                        212,
+                        728.0859375
+                      ],
+                      "text": "スヌワルニルマルクマル　様",
+                      "type": "textLine"
+                    }
+                  ],
+                  "rect": [
+                    27,
+                    750,
+                    214,
+                    730
+                  ],
+                  "rowStart": 1,
+                  "type": "td"
+                }
+              ],
+              "type": "tr"
+            },
+            {
+              "rect": [
+                27,
+                730,
+                214,
+                703
+              ],
+              "tds": [
+                {
+                  "colStart": 0,
+                  "contents": [
+                    {
+                      "baseline": 707.9799957275391,
+                      "rect": [
+                        29.04,
+                        719.17421875,
+                        196.37375999999995,
+                        703.33421875
+                      ],
+                      "text": "下記の通り、正に領収致しました。",
+                      "type": "textLine"
+                    }
+                  ],
+                  "rect": [
+                    27,
+                    730,
+                    214,
+                    703
+                  ],
+                  "rowStart": 2,
+                  "type": "td"
+                }
+              ],
+              "type": "tr"
+            }
+          ],
+          "type": "table"
+        },
+        {
+          "columnWidths": [
+            135,
+            402
+          ],
+          "groupId": 2,
+          "rect": [
+            30,
+            689,
+            567,
+            589
+          ],
+          "trs": [
+            {
+              "rect": [
+                30,
+                689,
+                567,
+                649
+              ],
+              "tds": [
+                {
+                  "colStart": 0,
+                  "contents": [
+                    {
+                      "baseline": 657.3399963378906,
+                      "rect": [
+                        71.304,
+                        671.826953125,
+                        124.93380000000002,
+                        651.37439453125
+                      ],
+                      "text": "合計⾦額",
+                      "type": "textLine"
+                    }
+                  ],
+                  "rect": [
+                    30,
+                    689,
+                    165,
+                    649
+                  ],
+                  "rowStart": 0,
+                  "type": "td"
+                },
+                {
+                  "colSpan": 1,
+                  "colStart": 1,
+                  "contents": [
+                    {
+                      "contents": [
+                        {
+                          "baseline": 662,
+                          "rect": [
+                            180,
+                            674.03125,
+                            411,
+                            660.0859375
+                          ],
+                          "text": "¥2,400－（10%対象消費税・税込み）",
+                          "type": "span"
+                        },
+                        {
+                          "baseline": 640,
+                          "rect": [
+                            180,
+                            652.03125,
+                            432,
+                            638.0859375
+                          ],
+                          "text": "※但し、乗車券代として（PayPay決済）",
+                          "type": "span"
+                        }
+                      ],
+                      "rect": [
+                        180,
+                        674.03125,
+                        432,
+                        638.0859375
+                      ],
+                      "type": "paragraph"
+                    }
+                  ],
+                  "rect": [
+                    165,
+                    689,
+                    567,
+                    627
+                  ],
+                  "rowSpan": 2,
+                  "rowStart": 0,
+                  "type": "td"
+                }
+              ],
+              "type": "tr"
+            },
+            {
+              "rect": [
+                30,
+                627,
+                567,
+                596
+              ],
+              "tds": [
+                {
+                  "colStart": 0,
+                  "contents": [
+                    {
+                      "baseline": 603.3399963378906,
+                      "rect": [
+                        78.024,
+                        617.826953125,
+                        118.22399999999999,
+                        597.37439453125
+                      ],
+                      "text": "領収⽇",
+                      "type": "textLine"
+                    }
+                  ],
+                  "rect": [
+                    30,
+                    627,
+                    165,
+                    596
+                  ],
+                  "rowStart": 2,
+                  "type": "td"
+                },
+                {
+                  "colSpan": 1,
+                  "colStart": 1,
+                  "contents": [
+                    {
+                      "baseline": 604,
+                      "rect": [
+                        180,
+                        616.03125,
+                        278,
+                        602.0859375
+                      ],
+                      "text": "2025年03月19日",
+                      "type": "textLine"
+                    }
+                  ],
+                  "rect": [
+                    165,
+                    627,
+                    567,
+                    590
+                  ],
+                  "rowSpan": 2,
+                  "rowStart": 2,
+                  "type": "td"
+                }
+              ],
+              "type": "tr"
+            }
+          ],
+          "type": "table"
+        },
+        {
+          "columnWidths": [
+            133,
+            135,
+            128,
+            136
+          ],
+          "groupId": 3,
+          "rect": [
+            37,
+            588,
+            569,
+            138
+          ],
+          "trs": [
+            {
+              "rect": [
+                37,
+                588,
+                569,
+                550
+              ],
+              "tds": [
+                {
+                  "colStart": 0,
+                  "contents": [
+                    {
+                      "baseline": 549.9100036621094,
+                      "rect": [
+                        66.384,
+                        564.396953125,
+                        133.5738,
+                        543.9443945312499
+                      ],
+                      "text": "ご予約番号",
+                      "type": "textLine"
+                    }
+                  ],
+                  "rect": [
+                    37,
+                    588,
+                    170,
+                    550
+                  ],
+                  "rowStart": 0,
+                  "type": "td"
+                },
+                {
+                  "colStart": 1,
+                  "contents": [
+                    {
+                      "baseline": 550,
+                      "rect": [
+                        180,
+                        562.03125,
+                        257,
+                        548.0859375
+                      ],
+                      "text": "03198002242",
+                      "type": "textLine"
+                    }
+                  ],
+                  "rect": [
+                    170,
+                    588,
+                    305,
+                    550
+                  ],
+                  "rowStart": 0,
+                  "type": "td"
+                }
+              ],
+              "type": "tr"
+            },
+            {
+              "rect": [
+                37,
+                550,
+                569,
+                513
+              ],
+              "tds": [
+                {
+                  "colStart": 0,
+                  "contents": [
+                    {
+                      "baseline": 512.3500061035156,
+                      "rect": [
+                        72.984,
+                        526.836953125,
+                        126.86399999999999,
+                        506.38439453125
+                      ],
+                      "text": "運賃⾦額",
+                      "type": "textLine"
+                    }
+                  ],
+                  "rect": [
+                    37,
+                    550,
+                    170,
+                    513
+                  ],
+                  "rowStart": 1,
+                  "type": "td"
+                },
+                {
+                  "colStart": 1,
+                  "contents": [
+                    {
+                      "baseline": 512,
+                      "rect": [
+                        180,
+                        524.03125,
+                        236,
+                        510.0859375
+                      ],
+                      "text": "¥2,400－",
+                      "type": "textLine"
+                    }
+                  ],
+                  "rect": [
+                    170,
+                    550,
+                    305,
+                    513
+                  ],
+                  "rowStart": 1,
+                  "type": "td"
+                }
+              ],
+              "type": "tr"
+            },
+            {
+              "rect": [
+                37,
+                513,
+                569,
+                475
+              ],
+              "tds": [
+                {
+                  "colStart": 0,
+                  "contents": [
+                    {
+                      "baseline": 474.7900085449219,
+                      "rect": [
+                        39.48,
+                        489.27695312500003,
+                        160.29960000000003,
+                        468.82439453125
+                      ],
+                      "text": "その他手数料・料⾦",
+                      "type": "textLine"
+                    }
+                  ],
+                  "rect": [
+                    37,
+                    513,
+                    170,
+                    475
+                  ],
+                  "rowStart": 2,
+                  "type": "td"
+                },
+                {
+                  "colStart": 1,
+                  "contents": [
+                    {
+                      "baseline": 474,
+                      "rect": [
+                        180,
+                        486.03125,
+                        208,
+                        472.0859375
+                      ],
+                      "text": "¥0－",
+                      "type": "textLine"
+                    }
+                  ],
+                  "rect": [
+                    170,
+                    513,
+                    305,
+                    475
+                  ],
+                  "rowStart": 2,
+                  "type": "td"
+                }
+              ],
+              "type": "tr"
+            },
+            {
+              "rect": [
+                37,
+                475,
+                569,
+                439
+              ],
+              "tds": [
+                {
+                  "colStart": 0,
+                  "contents": [
+                    {
+                      "baseline": 437.1099853515625,
+                      "rect": [
+                        46.2,
+                        451.596953125,
+                        153.58164000000002,
+                        431.14439453125
+                      ],
+                      "text": "ご利⽤往路路線名",
+                      "type": "textLine"
+                    }
+                  ],
+                  "rect": [
+                    37,
+                    475,
+                    170,
+                    439
+                  ],
+                  "rowStart": 3,
+                  "type": "td"
+                },
+                {
+                  "colStart": 1,
+                  "contents": [
+                    {
+                      "baseline": 439,
+                      "rect": [
+                        180,
+                        451.03125,
+                        334,
+                        437.0859375
+                      ],
+                      "text": "土浦つくば・成田空港線",
+                      "type": "textLine"
+                    }
+                  ],
+                  "rect": [
+                    170,
+                    475,
+                    305,
+                    439
+                  ],
+                  "rowStart": 3,
+                  "type": "td"
+                }
+              ],
+              "type": "tr"
+            },
+            {
+              "rect": [
+                37,
+                439,
+                569,
+                400
+              ],
+              "tds": [
+                {
+                  "colStart": 0,
+                  "contents": [
+                    {
+                      "baseline": 399.5299987792969,
+                      "rect": [
+                        66.384,
+                        414.016953125,
+                        133.5738,
+                        393.56439453124995
+                      ],
+                      "text": "出発⽇／便",
+                      "type": "textLine"
+                    }
+                  ],
+                  "rect": [
+                    37,
+                    439,
+                    170,
+                    400
+                  ],
+                  "rowStart": 4,
+                  "type": "td"
+                },
+                {
+                  "colStart": 1,
+                  "contents": [
+                    {
+                      "baseline": 399,
+                      "rect": [
+                        180,
+                        411.03125,
+                        348,
+                        397.0859375
+                      ],
+                      "text": "2025年04月09日／　0001便",
+                      "type": "textLine"
+                    }
+                  ],
+                  "rect": [
+                    170,
+                    439,
+                    305,
+                    400
+                  ],
+                  "rowStart": 4,
+                  "type": "td"
+                }
+              ],
+              "type": "tr"
+            },
+            {
+              "rect": [
+                37,
+                400,
+                569,
+                361
+              ],
+              "tds": [
+                {
+                  "colStart": 0,
+                  "contents": [
+                    {
+                      "baseline": 361.9700012207031,
+                      "rect": [
+                        73.104,
+                        376.45695312500004,
+                        126.73380000000002,
+                        356.00439453125
+                      ],
+                      "text": "乗⾞区間",
+                      "type": "textLine"
+                    }
+                  ],
+                  "rect": [
+                    37,
+                    400,
+                    170,
+                    361
+                  ],
+                  "rowStart": 5,
+                  "type": "td"
+                },
+                {
+                  "colStart": 1,
+                  "contents": [
+                    {
+                      "baseline": 360,
+                      "rect": [
+                        180,
+                        372.03125,
+                        390,
+                        358.0859375
+                      ],
+                      "text": "つくばセンター⇒成田空港第2PTB",
+                      "type": "textLine"
+                    }
+                  ],
+                  "rect": [
+                    170,
+                    400,
+                    305,
+                    361
+                  ],
+                  "rowStart": 5,
+                  "type": "td"
+                }
+              ],
+              "type": "tr"
+            },
+            {
+              "rect": [
+                37,
+                361,
+                569,
+                324
+              ],
+              "tds": [
+                {
+                  "colStart": 0,
+                  "contents": [
+                    {
+                      "baseline": 324.28997802734375,
+                      "rect": [
+                        79.824,
+                        338.776953125,
+                        120.024,
+                        318.32439453124994
+                      ],
+                      "text": "発⾏⽇",
+                      "type": "textLine"
+                    }
+                  ],
+                  "rect": [
+                    37,
+                    361,
+                    170,
+                    324
+                  ],
+                  "rowStart": 6,
+                  "type": "td"
+                },
+                {
+                  "colStart": 1,
+                  "contents": [
+                    {
+                      "baseline": 323,
+                      "rect": [
+                        180,
+                        335.03125,
+                        278,
+                        321.0859375
+                      ],
+                      "text": "2025年03月19日",
+                      "type": "textLine"
+                    }
+                  ],
+                  "rect": [
+                    170,
+                    361,
+                    305,
+                    324
+                  ],
+                  "rowStart": 6,
+                  "type": "td"
+                }
+              ],
+              "type": "tr"
+            },
+            {
+              "rect": [
+                37,
+                324,
+                569,
+                286
+              ],
+              "tds": [
+                {
+                  "colStart": 0,
+                  "contents": [
+                    {
+                      "baseline": 286.72998046875,
+                      "rect": [
+                        73.104,
+                        301.21695312500003,
+                        126.73380000000002,
+                        280.76439453125
+                      ],
+                      "text": "発⾏番号",
+                      "type": "textLine"
+                    }
+                  ],
+                  "rect": [
+                    37,
+                    324,
+                    170,
+                    286
+                  ],
+                  "rowStart": 7,
+                  "type": "td"
+                },
+                {
+                  "colStart": 1,
+                  "contents": [
+                    {
+                      "baseline": 285,
+                      "rect": [
+                        180,
+                        297.03125,
+                        306,
+                        283.0859375
+                      ],
+                      "text": "2025031908002242-1",
+                      "type": "textLine"
+                    }
+                  ],
+                  "rect": [
+                    170,
+                    324,
+                    305,
+                    286
+                  ],
+                  "rowStart": 7,
+                  "type": "td"
+                }
+              ],
+              "type": "tr"
+            },
+            {
+              "rect": [
+                37,
+                286,
+                569,
+                250
+              ],
+              "tds": [
+                {
+                  "colStart": 0,
+                  "contents": [
+                    {
+                      "baseline": 249.1400146484375,
+                      "rect": [
+                        73.104,
+                        263.626953125,
+                        126.73380000000002,
+                        243.17439453124996
+                      ],
+                      "text": "登録番号",
+                      "type": "textLine"
+                    }
+                  ],
+                  "rect": [
+                    37,
+                    286,
+                    170,
+                    250
+                  ],
+                  "rowStart": 8,
+                  "type": "td"
+                },
+                {
+                  "colStart": 1,
+                  "contents": [
+                    {
+                      "baseline": 250,
+                      "rect": [
+                        180,
+                        262.03125,
+                        278,
+                        248.0859375
+                      ],
+                      "text": "T3030001082610",
+                      "type": "textLine"
+                    }
+                  ],
+                  "rect": [
+                    170,
+                    286,
+                    305,
+                    250
+                  ],
+                  "rowStart": 8,
+                  "type": "td"
+                }
+              ],
+              "type": "tr"
+            },
+            {
+              "rect": [
+                37,
+                250,
+                569,
+                191
+              ],
+              "tds": [
+                {
+                  "colStart": 3,
+                  "contents": [
+                    {
+                      "baseline": 190.46002197265625,
+                      "rect": [
+                        441.94,
+                        201.74187500000005,
+                        567.4984000000002,
+                        185.81421875
+                      ],
+                      "text": "発⾞オーライネット運営元",
+                      "type": "textLine"
+                    }
+                  ],
+                  "rect": [
+                    433,
+                    250,
+                    569,
+                    191
+                  ],
+                  "rowStart": 9,
+                  "type": "td"
+                }
+              ],
+              "type": "tr"
+            },
+            {
+              "rect": [
+                37,
+                191,
+                569,
+                174
+              ],
+              "tds": [
+                {
+                  "colStart": 2,
+                  "contents": [
+                    {
+                      "baseline": 173.17999267578125,
+                      "rect": [
+                        305.23,
+                        184.37421875000007,
+                        567.9599999999999,
+                        168.53421875000004
+                      ],
+                      "text": "バス乗⾞券・鉄道乗⾞券代⾦代理受領者   株式会社⼯房",
+                      "type": "textLine"
+                    }
+                  ],
+                  "rect": [
+                    305,
+                    191,
+                    433,
+                    174
+                  ],
+                  "rowStart": 10,
+                  "type": "td"
+                }
+              ],
+              "type": "tr"
+            },
+            {
+              "rect": [
+                37,
+                174,
+                569,
+                159
+              ],
+              "tds": [
+                {
+                  "colStart": 2,
+                  "contents": [
+                    {
+                      "baseline": 158.29998779296875,
+                      "rect": [
+                        361.75,
+                        169.49421874999996,
+                        421.83255999999994,
+                        153.65421874999993
+                      ],
+                      "text": "〒332-0012",
+                      "type": "textLine"
+                    }
+                  ],
+                  "rect": [
+                    305,
+                    174,
+                    433,
+                    159
+                  ],
+                  "rowStart": 11,
+                  "type": "td"
+                },
+                {
+                  "colStart": 3,
+                  "contents": [
+                    {
+                      "baseline": 158.29998779296875,
+                      "rect": [
+                        433.18,
+                        169.49421874999996,
+                        567.55772,
+                        153.65421874999993
+                      ],
+                      "text": "埼⽟県川⼝市本町3丁⽬2-22",
+                      "type": "textLine"
+                    }
+                  ],
+                  "rect": [
+                    433,
+                    174,
+                    569,
+                    159
+                  ],
+                  "rowStart": 11,
+                  "type": "td"
+                }
+              ],
+              "type": "tr"
+            },
+            {
+              "rect": [
+                37,
+                159,
+                569,
+                138
+              ],
+              "tds": [
+                {
+                  "colStart": 2,
+                  "contents": [
+                    {
+                      "baseline": 140.9000244140625,
+                      "rect": [
+                        338.83,
+                        152.09421874999998,
+                        567.5272,
+                        136.25421874999995
+                      ],
+                      "text": "発⾞オーライネット https://secure.j-bus.co.jp",
+                      "type": "textLine"
+                    }
+                  ],
+                  "rect": [
+                    305,
+                    159,
+                    433,
+                    138
+                  ],
+                  "rowStart": 12,
+                  "type": "td"
+                }
+              ],
+              "type": "tr"
+            }
+          ],
+          "type": "table"
+        }
+      ],
+      "properties": {
+        "pageNumber": 2,
+        "rotation": 0
+      }
+    }
+  ],
+  "properties": {
+    "coordinateSystem": "PDF",
+    "producer": "TabularData",
+    "schemaVersion": "1.0"
+  },
+  "runInfo": {
+    "producerPlatform": "Linux",
+    "producerVersion": "11.14.1-ff9de69"
+  }
+}

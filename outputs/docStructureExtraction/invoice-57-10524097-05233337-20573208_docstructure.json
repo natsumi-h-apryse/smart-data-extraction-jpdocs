@@ -1,0 +1,619 @@
+{
+  "properties": {
+    "producer": "StructuredOutput",
+    "coordinateSystem": "originTop",
+    "schemaVersion": "1.0"
+  },
+  "pages": [
+    {
+      "properties": {
+        "pageNumber": 1,
+        "rotation": 0,
+        "width": 595.28,
+        "height": 841.88
+      },
+      "elements": [
+        {
+          "type": "heading",
+          "rect": [
+            272.89,
+            47.96,
+            322.39,
+            64.46
+          ],
+          "level": 1,
+          "textStyle": {
+            "bold": true,
+            "weight": 700,
+            "italic": false,
+            "underline": false,
+            "pointSize": 16.5,
+            "fontFace": "Microsoft JhengHei",
+            "parentStyle": "Heading 1"
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                272.89,
+                47.96,
+                322.39,
+                64.46
+              ],
+              "text": "領収書",
+              "style": {
+                "bold": true,
+                "weight": 700,
+                "italic": false,
+                "underline": false,
+                "pointSize": 16.5,
+                "fontFace": "Microsoft JhengHei"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "rect": [
+            40.5,
+            83.3,
+            334.5,
+            95.3
+          ],
+          "level": 2,
+          "textStyle": {
+            "italic": false,
+            "underline": false,
+            "pointSize": 12,
+            "fontFace": "SimSun",
+            "parentStyle": "Heading 2"
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                40.5,
+                83.3,
+                334.5,
+                95.3
+              ],
+              "text": "堀菜摘\t様",
+              "style": {
+                "bold": false,
+                "weight": 400,
+                "italic": false,
+                "underline": false,
+                "pointSize": 12,
+                "fontFace": "SimSun"
+              }
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "rect": [
+            38.25,
+            99.45,
+            340.5,
+            100.2
+          ],
+          "contents": [
+            {
+              "type": "graphic",
+              "rect": [
+                38.25,
+                99.45,
+                340.5,
+                100.2
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "rect": [
+            478.28,
+            80.95,
+            557.03,
+            91.45
+          ],
+          "textStyle": {
+            "italic": false,
+            "underline": false,
+            "pointSize": 10.5,
+            "fontFace": "SimSun",
+            "parentStyle": "Body Text"
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                478.28,
+                80.95,
+                557.03,
+                91.45
+              ],
+              "text": "No. SEI-3993146",
+              "style": {
+                "italic": false,
+                "underline": false,
+                "pointSize": 10.5,
+                "fontFace": "SimSun"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "rect": [
+            431.03,
+            93.66,
+            557.03,
+            116.87
+          ],
+          "textStyle": {
+            "italic": false,
+            "underline": false,
+            "pointSize": 10.5,
+            "fontFace": "SimSun",
+            "parentStyle": "Body Text"
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                441.53,
+                93.66,
+                557.03,
+                104.16
+              ],
+              "text": "発行日：2026年04月04日",
+              "style": {
+                "bold": false,
+                "weight": 400,
+                "italic": false,
+                "underline": false,
+                "pointSize": 10.5,
+                "fontFace": "SimSun"
+              }
+            },
+            {
+              "type": "span",
+              "rect": [
+                431.03,
+                106.37,
+                557.03,
+                116.87
+              ],
+              "text": "ご利用日：2026年04月04日",
+              "style": {
+                "bold": false,
+                "weight": 400,
+                "italic": false,
+                "underline": false,
+                "pointSize": 10.5,
+                "fontFace": "SimSun"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "rect": [
+            43.5,
+            128.77,
+            61.5,
+            137.77
+          ],
+          "textStyle": {
+            "italic": false,
+            "underline": false
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                43.5,
+                128.77,
+                61.5,
+                137.77
+              ],
+              "text": "但し",
+              "style": {
+                "bold": false,
+                "weight": 400,
+                "italic": false,
+                "underline": false,
+                "pointSize": 9,
+                "fontFace": "SimSun"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "rect": [
+            43.5,
+            139.68,
+            268.5,
+            159.59
+          ],
+          "textStyle": {
+            "italic": false,
+            "underline": false
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                43.5,
+                139.68,
+                268.5,
+                148.68
+              ],
+              "text": "シェアラウンジ利用料として（クレジットカード払い）",
+              "style": {
+                "bold": false,
+                "weight": 400,
+                "italic": false,
+                "underline": false,
+                "pointSize": 9,
+                "fontFace": "SimSun"
+              }
+            },
+            {
+              "type": "span",
+              "rect": [
+                43.5,
+                150.59,
+                151.5,
+                159.59
+              ],
+              "text": "下記の通り領収しました。",
+              "style": {
+                "bold": false,
+                "weight": 400,
+                "italic": false,
+                "underline": false,
+                "pointSize": 9,
+                "fontFace": "SimSun"
+              }
+            }
+          ]
+        },
+        {
+          "type": "textbox",
+          "rect": [
+            39,
+            186.56,
+            295.39,
+            210.08
+          ],
+          "contents": [
+            {
+              "type": "paragraph",
+              "rect": [
+                47.25,
+                191.68,
+                290.89,
+                203.68
+              ],
+              "textStyle": {
+                "italic": false,
+                "underline": false
+              },
+              "contents": [
+                {
+                  "type": "span",
+                  "rect": [
+                    47.25,
+                    191.68,
+                    290.89,
+                    203.68
+                  ],
+                  "text": "合計金額\t1,930  円（税込）",
+                  "style": {
+                    "bold": false,
+                    "weight": 400,
+                    "italic": false,
+                    "underline": false,
+                    "pointSize": 12,
+                    "fontFace": "SimSun"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "rect": [
+            67.42,
+            215.09,
+            266.93,
+            225.59
+          ],
+          "textStyle": {
+            "italic": false,
+            "underline": false,
+            "pointSize": 10.5,
+            "fontFace": "SimSun",
+            "parentStyle": "Body Text"
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                67.42,
+                215.09,
+                266.93,
+                225.59
+              ],
+              "text": "(内(10%) 税抜 1,755円 消費税10% 175円)",
+              "style": {
+                "bold": false,
+                "weight": 400,
+                "italic": false,
+                "underline": false,
+                "pointSize": 10.5,
+                "fontFace": "SimSun"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "rect": [
+            383.77,
+            186.32,
+            557.03,
+            209.54
+          ],
+          "textStyle": {
+            "italic": false,
+            "underline": false,
+            "pointSize": 10.5,
+            "fontFace": "SimSun",
+            "parentStyle": "Body Text"
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                425.78,
+                186.32,
+                557.03,
+                196.82
+              ],
+              "text": "530-0001 大阪府大阪市北区",
+              "style": {
+                "italic": false,
+                "underline": false,
+                "pointSize": 10.5,
+                "fontFace": "SimSun"
+              }
+            },
+            {
+              "type": "span",
+              "rect": [
+                383.77,
+                199.04,
+                557.02,
+                209.54
+              ],
+              "text": "梅田3丁目2-123 イノゲート大阪 6階",
+              "style": {
+                "italic": false,
+                "underline": false,
+                "pointSize": 10.5,
+                "fontFace": "SimSun"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "rect": [
+            494.03,
+            211.75,
+            557.03,
+            222.25
+          ],
+          "textStyle": {
+            "italic": false,
+            "underline": false,
+            "pointSize": 10.5,
+            "fontFace": "SimSun",
+            "parentStyle": "Body Text"
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                494.03,
+                211.75,
+                557.03,
+                222.25
+              ],
+              "text": "06-6616-8111",
+              "style": {
+                "bold": false,
+                "weight": 400,
+                "italic": false,
+                "underline": false,
+                "pointSize": 10.5,
+                "fontFace": "SimSun"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "rect": [
+            467.78,
+            224.46,
+            557.03,
+            234.96
+          ],
+          "textStyle": {
+            "italic": false,
+            "underline": false,
+            "pointSize": 10.5,
+            "fontFace": "SimSun",
+            "parentStyle": "Body Text"
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                467.78,
+                224.46,
+                557.03,
+                234.96
+              ],
+              "text": "TSUTAYA BOOKSTORE",
+              "style": {
+                "bold": false,
+                "weight": 400,
+                "italic": false,
+                "underline": false,
+                "pointSize": 10.5,
+                "fontFace": "SimSun"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "rect": [
+            436.28,
+            237.17,
+            557.03,
+            260.39
+          ],
+          "textStyle": {
+            "italic": false,
+            "underline": false,
+            "pointSize": 10.5,
+            "fontFace": "SimSun",
+            "parentStyle": "Body Text"
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                483.53,
+                237.17,
+                557.03,
+                247.67
+              ],
+              "text": "イノゲート大阪",
+              "style": {
+                "bold": false,
+                "weight": 400,
+                "italic": false,
+                "underline": false,
+                "pointSize": 10.5,
+                "fontFace": "SimSun"
+              }
+            },
+            {
+              "type": "span",
+              "rect": [
+                436.28,
+                249.89,
+                557.03,
+                260.39
+              ],
+              "text": "登録番号 T2120001077107",
+              "style": {
+                "bold": false,
+                "weight": 400,
+                "italic": false,
+                "underline": false,
+                "pointSize": 10.5,
+                "fontFace": "SimSun"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "properties": {
+        "pageNumber": 2,
+        "rotation": 0,
+        "width": 612,
+        "height": 792
+      },
+      "elements": [
+        {
+          "type": "paragraph",
+          "rect": [
+            36,
+            38.46,
+            257.28,
+            49.46
+          ],
+          "textStyle": {
+            "italic": false,
+            "underline": false
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                36,
+                38.46,
+                257.28,
+                49.46
+              ],
+              "text": "Apryse Data Extraction Module trial mode.",
+              "style": {
+                "bold": true,
+                "weight": 700,
+                "italic": false,
+                "underline": false,
+                "pointSize": 11,
+                "fontFace": "Arial"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "rect": [
+            36,
+            58.46,
+            492.65,
+            69.46
+          ],
+          "textStyle": {
+            "italic": false,
+            "underline": false
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                36,
+                58.46,
+                492.65,
+                69.46
+              ],
+              "text": "The trial is limited to 100 pages and will insert extra pages into the result (like this one).",
+              "style": {
+                "bold": true,
+                "weight": 700,
+                "italic": false,
+                "underline": false,
+                "pointSize": 11,
+                "fontFace": "Arial"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

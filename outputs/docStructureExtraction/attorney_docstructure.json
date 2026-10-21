@@ -1,0 +1,508 @@
+{
+  "properties": {
+    "producer": "StructuredOutput",
+    "coordinateSystem": "originTop",
+    "schemaVersion": "1.0"
+  },
+  "pages": [
+    {
+      "properties": {
+        "pageNumber": 1,
+        "rotation": 0,
+        "width": 612,
+        "height": 792
+      },
+      "elements": [
+        {
+          "type": "paragraph",
+          "rect": [
+            36,
+            38.46,
+            257.28,
+            49.46
+          ],
+          "textStyle": {
+            "bold": true,
+            "weight": 700,
+            "italic": false,
+            "underline": false,
+            "pointSize": 11,
+            "fontFace": "Arial",
+            "parentStyle": "Body Text"
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                36,
+                38.46,
+                257.28,
+                49.46
+              ],
+              "text": "Apryse Data Extraction Module trial mode.",
+              "style": {
+                "bold": true,
+                "weight": 700,
+                "italic": false,
+                "underline": false,
+                "pointSize": 11,
+                "fontFace": "Arial"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "rect": [
+            36,
+            58.46,
+            492.65,
+            69.46
+          ],
+          "textStyle": {
+            "bold": true,
+            "weight": 700,
+            "italic": false,
+            "underline": false,
+            "pointSize": 11,
+            "fontFace": "Arial",
+            "parentStyle": "Body Text"
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                36,
+                58.46,
+                492.65,
+                69.46
+              ],
+              "text": "The trial is limited to 100 pages and will insert extra pages into the result (like this one).",
+              "style": {
+                "bold": true,
+                "weight": 700,
+                "italic": false,
+                "underline": false,
+                "pointSize": 11,
+                "fontFace": "Arial"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "properties": {
+        "pageNumber": 2,
+        "rotation": 0,
+        "width": 595.32,
+        "height": 841.92
+      },
+      "elements": [
+        {
+          "type": "heading",
+          "rect": [
+            276.7,
+            109.86,
+            318.64,
+            125.27
+          ],
+          "level": 1,
+          "textStyle": {
+            "italic": false,
+            "underline": false,
+            "pointSize": 14,
+            "fontFace": "SimSun",
+            "parentStyle": "Heading 1"
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                276.7,
+                109.86,
+                318.64,
+                125.27
+              ],
+              "text": "委任状",
+              "style": {
+                "bold": false,
+                "weight": 400,
+                "italic": false,
+                "underline": false,
+                "pointSize": 14,
+                "fontFace": "SimSun"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "rect": [
+            415.86,
+            138.74,
+            510.36,
+            150.31
+          ],
+          "textStyle": {
+            "italic": false,
+            "underline": false
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                415.86,
+                138.74,
+                510.36,
+                150.31
+              ],
+              "text": "令和\t年\t月\t日",
+              "style": {
+                "bold": false,
+                "weight": 400,
+                "italic": false,
+                "underline": false,
+                "pointSize": 10.5,
+                "fontFace": "SimSun"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "rect": [
+            85.1,
+            179.24,
+            169.1,
+            217.81
+          ],
+          "textStyle": {
+            "italic": false,
+            "underline": false
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                85.1,
+                179.24,
+                169.1,
+                190.81
+              ],
+              "text": "代理人（受任者）",
+              "style": {
+                "bold": false,
+                "weight": 400,
+                "italic": false,
+                "underline": false,
+                "pointSize": 10.5,
+                "fontFace": "SimSun"
+              }
+            },
+            {
+              "type": "span",
+              "rect": [
+                85.1,
+                206.24,
+                106.1,
+                217.81
+              ],
+              "text": "住所",
+              "style": {
+                "bold": false,
+                "weight": 400,
+                "italic": false,
+                "underline": false,
+                "pointSize": 10.5,
+                "fontFace": "SimSun"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "rect": [
+            85.1,
+            233.24,
+            106.1,
+            244.81
+          ],
+          "textStyle": {
+            "italic": false,
+            "underline": false
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                85.1,
+                233.24,
+                106.1,
+                244.81
+              ],
+              "text": "氏名",
+              "style": {
+                "bold": false,
+                "weight": 400,
+                "italic": false,
+                "underline": false,
+                "pointSize": 10.5,
+                "fontFace": "SimSun"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "rect": [
+            85.1,
+            273.74,
+            379.12,
+            285.31
+          ],
+          "textStyle": {
+            "italic": false,
+            "underline": false
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                85.1,
+                273.74,
+                379.12,
+                285.31
+              ],
+              "text": "私は、上記のものを代理人と定め、下記の権限を委任します。",
+              "style": {
+                "bold": false,
+                "weight": 400,
+                "italic": false,
+                "underline": false,
+                "pointSize": 10.5,
+                "fontFace": "SimSun"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "rect": [
+            292.24,
+            318.5,
+            303.22,
+            330.6
+          ],
+          "textStyle": {
+            "italic": false,
+            "underline": false
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                292.24,
+                318.5,
+                303.22,
+                330.6
+              ],
+              "text": "記",
+              "style": {
+                "bold": false,
+                "weight": 400,
+                "italic": false,
+                "underline": false,
+                "pointSize": 11,
+                "fontFace": "SimSun"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "rect": [
+            85.1,
+            363.74,
+            105.83,
+            375.31
+          ],
+          "textStyle": {
+            "italic": false,
+            "underline": false
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                85.1,
+                363.74,
+                105.83,
+                375.31
+              ],
+              "text": "（1)",
+              "style": {
+                "bold": false,
+                "weight": 400,
+                "italic": false,
+                "underline": false,
+                "pointSize": 10.5,
+                "fontFace": "SimSun"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "rect": [
+            85.1,
+            399.74,
+            111.8,
+            411.31
+          ],
+          "textStyle": {
+            "italic": false,
+            "underline": false
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                85.1,
+                399.74,
+                111.8,
+                411.31
+              ],
+              "text": "（2）",
+              "style": {
+                "bold": false,
+                "weight": 400,
+                "italic": false,
+                "underline": false,
+                "pointSize": 10.5,
+                "fontFace": "SimSun"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "rect": [
+            489.36,
+            435.76,
+            510.36,
+            447.33
+          ],
+          "textStyle": {
+            "italic": false,
+            "underline": false
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                489.36,
+                435.76,
+                510.36,
+                447.33
+              ],
+              "text": "以上",
+              "style": {
+                "bold": false,
+                "weight": 400,
+                "italic": false,
+                "underline": false,
+                "pointSize": 10.5,
+                "fontFace": "SimSun"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "rect": [
+            85.1,
+            476.26,
+            158.6,
+            514.83
+          ],
+          "textStyle": {
+            "italic": false,
+            "underline": false
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                85.1,
+                476.26,
+                158.6,
+                487.83
+              ],
+              "text": "本人（委任者）",
+              "style": {
+                "bold": false,
+                "weight": 400,
+                "italic": false,
+                "underline": false,
+                "pointSize": 10.5,
+                "fontFace": "SimSun"
+              }
+            },
+            {
+              "type": "span",
+              "rect": [
+                85.1,
+                503.26,
+                106.1,
+                514.83
+              ],
+              "text": "住所",
+              "style": {
+                "bold": false,
+                "weight": 400,
+                "italic": false,
+                "underline": false,
+                "pointSize": 10.5,
+                "fontFace": "SimSun"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "rect": [
+            85.1,
+            530.26,
+            106.1,
+            541.83
+          ],
+          "textStyle": {
+            "italic": false,
+            "underline": false
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                85.1,
+                530.26,
+                106.1,
+                541.83
+              ],
+              "text": "氏名",
+              "style": {
+                "bold": false,
+                "weight": 400,
+                "italic": false,
+                "underline": false,
+                "pointSize": 10.5,
+                "fontFace": "SimSun"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

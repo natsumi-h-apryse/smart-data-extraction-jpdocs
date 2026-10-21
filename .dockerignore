@@ -1,0 +1,9 @@
+# ホストの node_modules（macOS 用バイナリ）がコンテナ内の Linux 用を上書きしないよう除外
+node_modules
+.git
+.DS_Store
+**/.DS_Store
+# 出力は実行時にボリュームでマウントするためイメージに含めない
+outputs
+# ライセンスキーはイメージに含めず、実行時に --env-file で渡す
+.env

@@ -1,0 +1,2502 @@
+{
+  "properties": {
+    "producer": "StructuredOutput",
+    "coordinateSystem": "originTop",
+    "schemaVersion": "1.0"
+  },
+  "pages": [
+    {
+      "properties": {
+        "pageNumber": 1,
+        "rotation": 0,
+        "width": 612,
+        "height": 792
+      },
+      "elements": [
+        {
+          "type": "paragraph",
+          "rect": [
+            36,
+            38.46,
+            257.28,
+            49.46
+          ],
+          "textStyle": {
+            "bold": true,
+            "weight": 700,
+            "italic": false,
+            "underline": false,
+            "pointSize": 11,
+            "fontFace": "Arial",
+            "parentStyle": "Body Text"
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                36,
+                38.46,
+                257.28,
+                49.46
+              ],
+              "text": "Apryse Data Extraction Module trial mode.",
+              "style": {
+                "bold": true,
+                "weight": 700,
+                "italic": false,
+                "underline": false,
+                "pointSize": 11,
+                "fontFace": "Arial"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "rect": [
+            36,
+            58.46,
+            492.65,
+            69.46
+          ],
+          "textStyle": {
+            "bold": true,
+            "weight": 700,
+            "italic": false,
+            "underline": false,
+            "pointSize": 11,
+            "fontFace": "Arial",
+            "parentStyle": "Body Text"
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                36,
+                58.46,
+                492.65,
+                69.46
+              ],
+              "text": "The trial is limited to 100 pages and will insert extra pages into the result (like this one).",
+              "style": {
+                "bold": true,
+                "weight": 700,
+                "italic": false,
+                "underline": false,
+                "pointSize": 11,
+                "fontFace": "Arial"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "properties": {
+        "pageNumber": 2,
+        "rotation": 0,
+        "width": 595.32,
+        "height": 841.92
+      },
+      "elements": [
+        {
+          "type": "paragraph",
+          "rect": [
+            148.58,
+            61.53,
+            432.57,
+            80.8
+          ],
+          "textStyle": {
+            "italic": false,
+            "underline": false
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                153.89,
+                62.09,
+                432.57,
+                79.49
+              ],
+              "text": " 署 名 (お よ び 拇 印) 証 明 申 請 書",
+              "style": {
+                "bold": false,
+                "weight": 400,
+                "italic": false,
+                "underline": true,
+                "pointSize": 17.5,
+                "fontFace": "MS PGothic"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "rect": [
+            363.79,
+            95.62,
+            534.9,
+            111.03
+          ],
+          "textStyle": {
+            "italic": false,
+            "underline": false
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                363.79,
+                95.62,
+                534.9,
+                111.03
+              ],
+              "text": "\t年\t月\t日",
+              "style": {
+                "bold": false,
+                "weight": 400,
+                "italic": false,
+                "underline": true,
+                "pointSize": 14,
+                "fontFace": "MS PGothic"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "rect": [
+            45.24,
+            111.54,
+            224.78,
+            125.46
+          ],
+          "textStyle": {
+            "italic": false,
+            "underline": false
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                45.24,
+                111.54,
+                224.78,
+                125.46
+              ],
+              "text": "在シンガポール日本国大使 殿",
+              "style": {
+                "bold": false,
+                "weight": 400,
+                "italic": false,
+                "underline": false,
+                "pointSize": 14,
+                "fontFace": "MS PGothic"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "rect": [
+            54.48,
+            139.62,
+            402.39,
+            153.54
+          ],
+          "textStyle": {
+            "italic": false,
+            "underline": false
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                54.48,
+                139.62,
+                402.39,
+                153.54
+              ],
+              "text": "以下の目的のため私の署名（及び拇印）証明を申請します。",
+              "style": {
+                "bold": false,
+                "weight": 400,
+                "italic": false,
+                "underline": false,
+                "pointSize": 14,
+                "fontFace": "MS PGothic"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "rect": [
+            45.24,
+            156.06,
+            474.65,
+            169.98
+          ],
+          "textStyle": {
+            "italic": false,
+            "underline": false
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                45.24,
+                156.06,
+                474.65,
+                169.98
+              ],
+              "text": "●必要な証明形式（「形式１」または「形式２」）にチェックを入れてください。",
+              "style": {
+                "bold": false,
+                "weight": 400,
+                "italic": false,
+                "underline": false,
+                "pointSize": 14,
+                "fontFace": "MS PGothic"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "rect": [
+            45,
+            172.26,
+            477.35,
+            184.5
+          ],
+          "textStyle": {
+            "italic": false,
+            "underline": false
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                45,
+                172.26,
+                477.35,
+                184.5
+              ],
+              "text": "※証明書の原紙は窓口でお渡しいたしますので番号が呼ばれるまでお待ちください。",
+              "style": {
+                "bold": false,
+                "weight": 400,
+                "italic": false,
+                "underline": false,
+                "pointSize": 12,
+                "fontFace": "MS PGothic"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "rect": [
+            44.88,
+            188.21,
+            482.92,
+            199.49
+          ],
+          "textStyle": {
+            "italic": false,
+            "underline": false
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                44.88,
+                188.21,
+                482.92,
+                199.49
+              ],
+              "text": "※形式１の場合、持参されている書類への署名はせず、窓口で確認後、署名をしてください。",
+              "style": {
+                "bold": false,
+                "weight": 400,
+                "italic": false,
+                "underline": false,
+                "pointSize": 11,
+                "fontFace": "MS PGothic"
+              }
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "rect": [
+            42.6,
+            210.74,
+            537.72,
+            346.13
+          ],
+          "trs": [
+            {
+              "type": "tr",
+              "rect": [
+                42.6,
+                210.74,
+                537.72,
+                244.54
+              ],
+              "tds": [
+                {
+                  "type": "th",
+                  "rect": [
+                    42.6,
+                    210.74,
+                    272.75,
+                    244.54
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 3,
+                  "rowStart": 0,
+                  "colStart": 0,
+                  "contents": [
+                    {
+                      "type": "paragraph",
+                      "rect": [
+                        82.32,
+                        219.89,
+                        234.24,
+                        235.49
+                      ],
+                      "textStyle": {
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 11,
+                        "fontFace": "MS PGothic",
+                        "parentStyle": "Table Paragraph"
+                      },
+                      "contents": [
+                        {
+                          "type": "span",
+                          "rect": [
+                            82.32,
+                            219.89,
+                            234.24,
+                            235.49
+                          ],
+                          "text": "□ 「形式 １」（貼付型）",
+                          "style": {
+                            "bold": false,
+                            "weight": 400,
+                            "italic": false,
+                            "underline": false,
+                            "pointSize": 15.5,
+                            "fontFace": "MS PGothic"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "th",
+                  "rect": [
+                    272.75,
+                    210.74,
+                    536.95,
+                    244.54
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 2,
+                  "rowStart": 0,
+                  "colStart": 3,
+                  "contents": [
+                    {
+                      "type": "paragraph",
+                      "rect": [
+                        329.47,
+                        219.89,
+                        481.35,
+                        235.49
+                      ],
+                      "textStyle": {
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 11,
+                        "fontFace": "MS PGothic",
+                        "parentStyle": "Table Paragraph"
+                      },
+                      "contents": [
+                        {
+                          "type": "span",
+                          "rect": [
+                            329.47,
+                            219.89,
+                            481.35,
+                            235.49
+                          ],
+                          "text": "□ 「形式 ２」（単独型）",
+                          "style": {
+                            "bold": false,
+                            "weight": 400,
+                            "italic": false,
+                            "underline": false,
+                            "pointSize": 15.5,
+                            "fontFace": "MS PGothic"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tr",
+              "rect": [
+                42.6,
+                244.54,
+                537.72,
+                288.34
+              ],
+              "tds": [
+                {
+                  "type": "td",
+                  "rect": [
+                    42.6,
+                    244.54,
+                    272.75,
+                    288.34
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 3,
+                  "rowStart": 1,
+                  "colStart": 0,
+                  "contents": [
+                    {
+                      "type": "paragraph",
+                      "rect": [
+                        44.76,
+                        249.77,
+                        270.07,
+                        283.28
+                      ],
+                      "textStyle": {
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 11,
+                        "fontFace": "MS PGothic",
+                        "parentStyle": "Table Paragraph"
+                      },
+                      "contents": [
+                        {
+                          "type": "span",
+                          "rect": [
+                            44.76,
+                            249.77,
+                            270.07,
+                            260.21
+                          ],
+                          "text": "署名をする必要のある書類に、申請人が署名したこ",
+                          "style": {
+                            "bold": false,
+                            "weight": 400,
+                            "italic": false,
+                            "underline": false,
+                            "pointSize": 10.5,
+                            "fontFace": "MS PGothic"
+                          }
+                        },
+                        {
+                          "type": "span",
+                          "rect": [
+                            44.76,
+                            261.32,
+                            268.15,
+                            271.76
+                          ],
+                          "text": "とを証明する形式です。お手持ちの書類に、大使館",
+                          "style": {
+                            "bold": false,
+                            "weight": 400,
+                            "italic": false,
+                            "underline": false,
+                            "pointSize": 10.5,
+                            "fontFace": "MS PGothic"
+                          }
+                        },
+                        {
+                          "type": "span",
+                          "rect": [
+                            44.76,
+                            272.84,
+                            152.14,
+                            283.28
+                          ],
+                          "text": "の証明が貼付されます。",
+                          "style": {
+                            "bold": false,
+                            "weight": 400,
+                            "italic": false,
+                            "underline": false,
+                            "pointSize": 10.5,
+                            "fontFace": "MS PGothic"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "td",
+                  "rect": [
+                    272.75,
+                    244.54,
+                    536.95,
+                    288.34
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 2,
+                  "rowStart": 1,
+                  "colStart": 3,
+                  "contents": [
+                    {
+                      "type": "paragraph",
+                      "rect": [
+                        274.85,
+                        249.77,
+                        525.96,
+                        283.28
+                      ],
+                      "textStyle": {
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 11,
+                        "fontFace": "MS PGothic",
+                        "parentStyle": "Table Paragraph"
+                      },
+                      "contents": [
+                        {
+                          "type": "span",
+                          "rect": [
+                            274.85,
+                            249.77,
+                            525.96,
+                            260.21
+                          ],
+                          "text": "市区町村役場で発行される印鑑証明のように申請人の署",
+                          "style": {
+                            "bold": false,
+                            "weight": 400,
+                            "italic": false,
+                            "underline": false,
+                            "pointSize": 10.5,
+                            "fontFace": "MS PGothic"
+                          }
+                        },
+                        {
+                          "type": "span",
+                          "rect": [
+                            274.85,
+                            261.32,
+                            521.97,
+                            271.76
+                          ],
+                          "text": "名および拇印であることを、一枚の証明書として発行しま",
+                          "style": {
+                            "bold": false,
+                            "weight": 400,
+                            "italic": false,
+                            "underline": false,
+                            "pointSize": 10.5,
+                            "fontFace": "MS PGothic"
+                          }
+                        },
+                        {
+                          "type": "span",
+                          "rect": [
+                            274.85,
+                            272.84,
+                            291.91,
+                            283.28
+                          ],
+                          "text": "す。",
+                          "style": {
+                            "bold": false,
+                            "weight": 400,
+                            "italic": false,
+                            "underline": false,
+                            "pointSize": 10.5,
+                            "fontFace": "MS PGothic"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tr",
+              "rect": [
+                42.6,
+                288.34,
+                537.72,
+                316.74
+              ],
+              "tds": [
+                {
+                  "type": "td",
+                  "rect": [
+                    42.6,
+                    288.34,
+                    272.75,
+                    316.74
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 3,
+                  "rowStart": 2,
+                  "colStart": 0,
+                  "contents": [
+                    {
+                      "type": "paragraph",
+                      "rect": [
+                        100.42,
+                        296.49,
+                        223.73,
+                        308.73
+                      ],
+                      "textStyle": {
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 11,
+                        "fontFace": "MS PGothic",
+                        "parentStyle": "Table Paragraph"
+                      },
+                      "contents": [
+                        {
+                          "type": "span",
+                          "rect": [
+                            100.42,
+                            296.49,
+                            223.73,
+                            308.73
+                          ],
+                          "text": "必要通数\t通",
+                          "style": {
+                            "bold": false,
+                            "weight": 400,
+                            "italic": false,
+                            "underline": false,
+                            "pointSize": 12,
+                            "fontFace": "MS PGothic"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "td",
+                  "rect": [
+                    272.75,
+                    288.34,
+                    427.4,
+                    316.74
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "rowStart": 2,
+                  "colStart": 3,
+                  "contents": [
+                    {
+                      "type": "paragraph",
+                      "rect": [
+                        347.57,
+                        296.49,
+                        396.86,
+                        308.73
+                      ],
+                      "textStyle": {
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 11,
+                        "fontFace": "MS PGothic",
+                        "parentStyle": "Table Paragraph"
+                      },
+                      "contents": [
+                        {
+                          "type": "span",
+                          "rect": [
+                            347.57,
+                            296.49,
+                            396.86,
+                            308.73
+                          ],
+                          "text": "必要通数",
+                          "style": {
+                            "bold": false,
+                            "weight": 400,
+                            "italic": false,
+                            "underline": false,
+                            "pointSize": 12,
+                            "fontFace": "MS PGothic"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "td",
+                  "rect": [
+                    427.4,
+                    288.34,
+                    536.95,
+                    316.74
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "rowStart": 2,
+                  "colStart": 4,
+                  "contents": [
+                    {
+                      "type": "paragraph",
+                      "rect": [
+                        458.64,
+                        296.49,
+                        470.88,
+                        308.73
+                      ],
+                      "textStyle": {
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 11,
+                        "fontFace": "MS PGothic",
+                        "parentStyle": "Table Paragraph"
+                      },
+                      "contents": [
+                        {
+                          "type": "span",
+                          "rect": [
+                            458.64,
+                            296.49,
+                            470.88,
+                            308.73
+                          ],
+                          "text": "通",
+                          "style": {
+                            "bold": false,
+                            "weight": 400,
+                            "italic": false,
+                            "underline": false,
+                            "pointSize": 12,
+                            "fontFace": "MS PGothic"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tr",
+              "rect": [
+                42.6,
+                316.74,
+                537.72,
+                345.14
+              ],
+              "tds": [
+                {
+                  "type": "td",
+                  "rect": [
+                    42.6,
+                    316.74,
+                    227.7,
+                    345.14
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "rowStart": 3,
+                  "colStart": 0,
+                  "contents": []
+                },
+                {
+                  "type": "td",
+                  "rect": [
+                    227.7,
+                    316.74,
+                    252.65,
+                    345.14
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "rowStart": 3,
+                  "colStart": 1,
+                  "contents": [
+                    {
+                      "type": "paragraph",
+                      "rect": [
+                        232.47,
+                        324.93,
+                        244.71,
+                        337.17
+                      ],
+                      "textStyle": {
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 11,
+                        "fontFace": "MS PGothic",
+                        "parentStyle": "Table Paragraph"
+                      },
+                      "contents": [
+                        {
+                          "type": "span",
+                          "rect": [
+                            232.47,
+                            324.93,
+                            244.71,
+                            337.17
+                          ],
+                          "text": "合",
+                          "style": {
+                            "bold": false,
+                            "weight": 400,
+                            "italic": false,
+                            "underline": false,
+                            "pointSize": 12,
+                            "fontFace": "MS PGothic"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "td",
+                  "rect": [
+                    252.65,
+                    316.74,
+                    427.4,
+                    345.14
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 2,
+                  "rowStart": 3,
+                  "colStart": 2,
+                  "contents": [
+                    {
+                      "type": "paragraph",
+                      "rect": [
+                        261.35,
+                        324.93,
+                        355.86,
+                        337.17
+                      ],
+                      "textStyle": {
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 11,
+                        "fontFace": "MS PGothic",
+                        "parentStyle": "Table Paragraph"
+                      },
+                      "contents": [
+                        {
+                          "type": "span",
+                          "rect": [
+                            261.35,
+                            324.93,
+                            355.86,
+                            337.17
+                          ],
+                          "text": "計\t通",
+                          "style": {
+                            "bold": false,
+                            "weight": 400,
+                            "italic": false,
+                            "underline": false,
+                            "pointSize": 12,
+                            "fontFace": "MS PGothic"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "td",
+                  "rect": [
+                    427.4,
+                    316.74,
+                    536.95,
+                    345.14
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "rowStart": 3,
+                  "colStart": 4,
+                  "contents": []
+                }
+              ]
+            }
+          ],
+          "columnWidths": [
+            185.1,
+            24.95,
+            20.1,
+            154.65,
+            109.55
+          ]
+        },
+        {
+          "type": "group",
+          "rect": [
+            42.12,
+            350.81,
+            538.08,
+            747.94
+          ],
+          "contents": [
+            {
+              "type": "textbox",
+              "rect": [
+                88.2,
+                471.23,
+                132.9,
+                485.15
+              ],
+              "contents": [
+                {
+                  "type": "paragraph",
+                  "rect": [
+                    88.2,
+                    471.23,
+                    131.9,
+                    485.15
+                  ],
+                  "textStyle": {
+                    "italic": false,
+                    "underline": false
+                  },
+                  "contents": [
+                    {
+                      "type": "span",
+                      "rect": [
+                        88.2,
+                        472.67,
+                        124.92,
+                        484.91
+                      ],
+                      "text": "外国語",
+                      "style": {
+                        "bold": false,
+                        "weight": 400,
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 12,
+                        "fontFace": "MS PGothic"
+                      }
+                    },
+                    {
+                      "type": "span",
+                      "rect": [
+                        124.94,
+                        471.23,
+                        131.9,
+                        485.15
+                      ],
+                      "text": "：",
+                      "style": {
+                        "bold": false,
+                        "weight": 400,
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 14,
+                        "fontFace": "MS PGothic"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "textbox",
+              "rect": [
+                444.34,
+                668.29,
+                460.94,
+                683.89
+              ],
+              "contents": [
+                {
+                  "type": "paragraph",
+                  "rect": [
+                    444.34,
+                    668.29,
+                    459.94,
+                    683.89
+                  ],
+                  "textStyle": {
+                    "italic": false,
+                    "underline": false
+                  },
+                  "contents": [
+                    {
+                      "type": "span",
+                      "rect": [
+                        444.34,
+                        668.29,
+                        459.94,
+                        683.89
+                      ],
+                      "text": "有",
+                      "style": {
+                        "bold": false,
+                        "weight": 400,
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 15.5,
+                        "fontFace": "MS PGothic"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "textbox",
+              "rect": [
+                501.22,
+                668.29,
+                517.82,
+                683.89
+              ],
+              "contents": [
+                {
+                  "type": "paragraph",
+                  "rect": [
+                    501.22,
+                    668.29,
+                    516.82,
+                    683.89
+                  ],
+                  "textStyle": {
+                    "italic": false,
+                    "underline": false
+                  },
+                  "contents": [
+                    {
+                      "type": "span",
+                      "rect": [
+                        501.22,
+                        668.29,
+                        516.82,
+                        683.89
+                      ],
+                      "text": "無",
+                      "style": {
+                        "bold": false,
+                        "weight": 400,
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 15.5,
+                        "fontFace": "MS PGothic"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "textbox",
+              "rect": [
+                470.14,
+                549.69,
+                534.5,
+                557.49
+              ],
+              "contents": [
+                {
+                  "type": "paragraph",
+                  "rect": [
+                    470.14,
+                    549.69,
+                    533.5,
+                    557.49
+                  ],
+                  "textStyle": {
+                    "italic": false,
+                    "underline": false
+                  },
+                  "contents": [
+                    {
+                      "type": "span",
+                      "rect": [
+                        470.14,
+                        549.69,
+                        533.5,
+                        557.49
+                      ],
+                      "text": "抜いていない場合",
+                      "style": {
+                        "bold": false,
+                        "weight": 400,
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 7.5,
+                        "fontFace": "MS PGothic"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "textbox",
+              "rect": [
+                385.15,
+                542.74,
+                418.75,
+                564.7
+              ],
+              "contents": [
+                {
+                  "type": "paragraph",
+                  "rect": [
+                    385.15,
+                    542.74,
+                    417.75,
+                    564.7
+                  ],
+                  "textStyle": {
+                    "italic": false,
+                    "underline": false
+                  },
+                  "contents": [
+                    {
+                      "type": "span",
+                      "rect": [
+                        385.15,
+                        542.74,
+                        417.75,
+                        553.18
+                      ],
+                      "text": "市 ・ 区",
+                      "style": {
+                        "bold": false,
+                        "weight": 400,
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 10.5,
+                        "fontFace": "MS PGothic"
+                      }
+                    },
+                    {
+                      "type": "span",
+                      "rect": [
+                        385.15,
+                        554.26,
+                        417.75,
+                        564.7
+                      ],
+                      "text": "町 ・ 村",
+                      "style": {
+                        "bold": false,
+                        "weight": 400,
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 10.5,
+                        "fontFace": "MS PGothic"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "textbox",
+              "rect": [
+                347.83,
+                542.74,
+                369.76,
+                553.18
+              ],
+              "contents": [
+                {
+                  "type": "paragraph",
+                  "rect": [
+                    347.83,
+                    542.74,
+                    368.76,
+                    553.18
+                  ],
+                  "textStyle": {
+                    "italic": false,
+                    "underline": false
+                  },
+                  "contents": [
+                    {
+                      "type": "span",
+                      "rect": [
+                        347.83,
+                        542.74,
+                        368.76,
+                        553.18
+                      ],
+                      "text": "（郡）",
+                      "style": {
+                        "bold": false,
+                        "weight": 400,
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 10.5,
+                        "fontFace": "MS PGothic"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "textbox",
+              "rect": [
+                232.61,
+                542.74,
+                266.21,
+                564.7
+              ],
+              "contents": [
+                {
+                  "type": "paragraph",
+                  "rect": [
+                    232.61,
+                    542.74,
+                    265.21,
+                    564.7
+                  ],
+                  "textStyle": {
+                    "italic": false,
+                    "underline": false
+                  },
+                  "contents": [
+                    {
+                      "type": "span",
+                      "rect": [
+                        232.61,
+                        542.74,
+                        265.21,
+                        553.18
+                      ],
+                      "text": "都 ・ 道",
+                      "style": {
+                        "bold": false,
+                        "weight": 400,
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 10.5,
+                        "fontFace": "MS PGothic"
+                      }
+                    },
+                    {
+                      "type": "span",
+                      "rect": [
+                        232.61,
+                        554.26,
+                        265.21,
+                        564.7
+                      ],
+                      "text": "府 ・ 県",
+                      "style": {
+                        "bold": false,
+                        "weight": 400,
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 10.5,
+                        "fontFace": "MS PGothic"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "textbox",
+              "rect": [
+                51.69,
+                548.38,
+                176.01,
+                558.82
+              ],
+              "contents": [
+                {
+                  "type": "paragraph",
+                  "rect": [
+                    51.69,
+                    548.38,
+                    175.01,
+                    558.82
+                  ],
+                  "textStyle": {
+                    "italic": false,
+                    "underline": false
+                  },
+                  "contents": [
+                    {
+                      "type": "span",
+                      "rect": [
+                        51.69,
+                        548.38,
+                        175.01,
+                        558.82
+                      ],
+                      "text": "住民登録市区町村役場名 ：",
+                      "style": {
+                        "bold": false,
+                        "weight": 400,
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 10.5,
+                        "fontFace": "MS PGothic"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "textbox",
+              "rect": [
+                408.1,
+                515.99,
+                510.81,
+                529.91
+              ],
+              "contents": [
+                {
+                  "type": "paragraph",
+                  "rect": [
+                    408.1,
+                    515.99,
+                    509.81,
+                    529.91
+                  ],
+                  "textStyle": {
+                    "italic": false,
+                    "underline": false
+                  },
+                  "contents": [
+                    {
+                      "type": "span",
+                      "rect": [
+                        408.1,
+                        515.99,
+                        509.81,
+                        529.91
+                      ],
+                      "text": "抜いていません。",
+                      "style": {
+                        "bold": false,
+                        "weight": 400,
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 14,
+                        "fontFace": "MS PGothic"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "textbox",
+              "rect": [
+                258.65,
+                515.99,
+                347.44,
+                529.91
+              ],
+              "contents": [
+                {
+                  "type": "paragraph",
+                  "rect": [
+                    258.65,
+                    515.99,
+                    346.44,
+                    529.91
+                  ],
+                  "textStyle": {
+                    "italic": false,
+                    "underline": false
+                  },
+                  "contents": [
+                    {
+                      "type": "span",
+                      "rect": [
+                        258.65,
+                        515.99,
+                        346.44,
+                        529.91
+                      ],
+                      "text": "抜いています。",
+                      "style": {
+                        "bold": false,
+                        "weight": 400,
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 14,
+                        "fontFace": "MS PGothic"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "textbox",
+              "rect": [
+                56.28,
+                515.99,
+                212.95,
+                529.91
+              ],
+              "contents": [
+                {
+                  "type": "paragraph",
+                  "rect": [
+                    56.28,
+                    515.99,
+                    211.95,
+                    529.91
+                  ],
+                  "textStyle": {
+                    "italic": false,
+                    "underline": false
+                  },
+                  "contents": [
+                    {
+                      "type": "span",
+                      "rect": [
+                        56.28,
+                        515.99,
+                        211.95,
+                        529.91
+                      ],
+                      "text": "私は、日本の住民登録を、",
+                      "style": {
+                        "bold": false,
+                        "weight": 400,
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 14,
+                        "fontFace": "MS PGothic"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "textbox",
+              "rect": [
+                256.81,
+                425.85,
+                271.73,
+                439.77
+              ],
+              "contents": [
+                {
+                  "type": "paragraph",
+                  "rect": [
+                    256.81,
+                    425.85,
+                    270.73,
+                    439.77
+                  ],
+                  "textStyle": {
+                    "italic": false,
+                    "underline": false
+                  },
+                  "contents": [
+                    {
+                      "type": "span",
+                      "rect": [
+                        256.81,
+                        425.85,
+                        270.73,
+                        439.77
+                      ],
+                      "text": "日",
+                      "style": {
+                        "bold": false,
+                        "weight": 400,
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 14,
+                        "fontFace": "MS PGothic"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "textbox",
+              "rect": [
+                215.18,
+                425.85,
+                230.1,
+                439.77
+              ],
+              "contents": [
+                {
+                  "type": "paragraph",
+                  "rect": [
+                    215.18,
+                    425.85,
+                    229.1,
+                    439.77
+                  ],
+                  "textStyle": {
+                    "italic": false,
+                    "underline": false
+                  },
+                  "contents": [
+                    {
+                      "type": "span",
+                      "rect": [
+                        215.18,
+                        425.85,
+                        229.1,
+                        439.77
+                      ],
+                      "text": "月",
+                      "style": {
+                        "bold": false,
+                        "weight": 400,
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 14,
+                        "fontFace": "MS PGothic"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "textbox",
+              "rect": [
+                173.54,
+                425.85,
+                188.46,
+                439.77
+              ],
+              "contents": [
+                {
+                  "type": "paragraph",
+                  "rect": [
+                    173.54,
+                    425.85,
+                    187.46,
+                    439.77
+                  ],
+                  "textStyle": {
+                    "italic": false,
+                    "underline": false
+                  },
+                  "contents": [
+                    {
+                      "type": "span",
+                      "rect": [
+                        173.54,
+                        425.85,
+                        187.46,
+                        439.77
+                      ],
+                      "text": "年",
+                      "style": {
+                        "bold": false,
+                        "weight": 400,
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 14,
+                        "fontFace": "MS PGothic"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "textbox",
+              "rect": [
+                94.94,
+                419.84,
+                128.55,
+                446.6
+              ],
+              "contents": [
+                {
+                  "type": "paragraph",
+                  "rect": [
+                    94.94,
+                    419.84,
+                    127.55,
+                    430.28
+                  ],
+                  "textStyle": {
+                    "italic": false,
+                    "underline": false
+                  },
+                  "contents": [
+                    {
+                      "type": "span",
+                      "rect": [
+                        94.94,
+                        419.84,
+                        127.55,
+                        430.28
+                      ],
+                      "text": "大 ・ 昭",
+                      "style": {
+                        "bold": false,
+                        "weight": 400,
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 10.5,
+                        "fontFace": "MS PGothic"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "rect": [
+                    94.94,
+                    436.16,
+                    127.55,
+                    446.6
+                  ],
+                  "textStyle": {
+                    "italic": false,
+                    "underline": false
+                  },
+                  "contents": [
+                    {
+                      "type": "span",
+                      "rect": [
+                        94.94,
+                        436.16,
+                        127.55,
+                        446.6
+                      ],
+                      "text": "平 ・ 令",
+                      "style": {
+                        "bold": false,
+                        "weight": 400,
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 10.5,
+                        "fontFace": "MS PGothic"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "textbox",
+              "rect": [
+                50.76,
+                418.41,
+                79.6,
+                447.21
+              ],
+              "contents": [
+                {
+                  "type": "paragraph",
+                  "rect": [
+                    50.76,
+                    418.41,
+                    78.6,
+                    447.21
+                  ],
+                  "textStyle": {
+                    "italic": false,
+                    "underline": false
+                  },
+                  "contents": [
+                    {
+                      "type": "span",
+                      "rect": [
+                        50.76,
+                        418.41,
+                        78.6,
+                        432.33
+                      ],
+                      "text": "生年",
+                      "style": {
+                        "bold": false,
+                        "weight": 400,
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 14,
+                        "fontFace": "MS PGothic"
+                      }
+                    },
+                    {
+                      "type": "span",
+                      "rect": [
+                        50.76,
+                        433.29,
+                        78.6,
+                        447.21
+                      ],
+                      "text": "月日",
+                      "style": {
+                        "bold": false,
+                        "weight": 400,
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 14,
+                        "fontFace": "MS PGothic"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "graphic",
+              "rect": [
+                43.8,
+                395.27,
+                128.78,
+                395.27
+              ]
+            },
+            {
+              "type": "graphic",
+              "rect": [
+                42.12,
+                350.81,
+                538.08,
+                747.94
+              ]
+            },
+            {
+              "type": "graphic",
+              "rect": [
+                129.86,
+                395.27,
+                535.44,
+                395.27
+              ]
+            },
+            {
+              "type": "graphic",
+              "rect": [
+                43.8,
+                394.85,
+                536.4,
+                449.95
+              ]
+            },
+            {
+              "type": "graphic",
+              "rect": [
+                132.98,
+                478.57,
+                533.76,
+                478.57
+              ]
+            },
+            {
+              "type": "graphic",
+              "rect": [
+                43.8,
+                478.15,
+                536.4,
+                508.03
+              ]
+            },
+            {
+              "type": "graphic",
+              "rect": [
+                43.8,
+                539.05,
+                379.87,
+                539.05
+              ]
+            },
+            {
+              "type": "graphic",
+              "rect": [
+                43.8,
+                567.67,
+                538.08,
+                747.94
+              ]
+            },
+            {
+              "type": "graphic",
+              "rect": [
+                89.96,
+                419.2,
+                134.2,
+                444.71
+              ]
+            },
+            {
+              "type": "graphic",
+              "rect": [
+                235.09,
+                512.85,
+                506.11,
+                531.39
+              ]
+            },
+            {
+              "type": "graphic",
+              "rect": [
+                424.56,
+                533.37,
+                462.91,
+                565.16
+              ]
+            },
+            {
+              "type": "graphic",
+              "rect": [
+                424.56,
+                533.37,
+                462.91,
+                565.16
+              ]
+            },
+            {
+              "type": "graphic",
+              "rect": [
+                227.68,
+                540.84,
+                420.33,
+                566
+              ]
+            },
+            {
+              "type": "textbox",
+              "rect": [
+                43.8,
+                724.66,
+                129.02,
+                746.26
+              ],
+              "contents": [
+                {
+                  "type": "paragraph",
+                  "rect": [
+                    68.52,
+                    728.3,
+                    104.77,
+                    742.22
+                  ],
+                  "textStyle": {
+                    "italic": false,
+                    "underline": false
+                  },
+                  "contents": [
+                    {
+                      "type": "span",
+                      "rect": [
+                        68.52,
+                        728.3,
+                        104.77,
+                        742.22
+                      ],
+                      "text": "備 考",
+                      "style": {
+                        "bold": false,
+                        "weight": 400,
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 14,
+                        "fontFace": "MS PGothic"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "textbox",
+              "rect": [
+                129.86,
+                698.62,
+                536.4,
+                723.82
+              ],
+              "contents": [
+                {
+                  "type": "paragraph",
+                  "rect": [
+                    140.9,
+                    704.3,
+                    260.75,
+                    718.22
+                  ],
+                  "textStyle": {
+                    "italic": false,
+                    "underline": false
+                  },
+                  "contents": [
+                    {
+                      "type": "span",
+                      "rect": [
+                        140.9,
+                        704.3,
+                        260.75,
+                        718.22
+                      ],
+                      "text": "(自宅・勤務先・携帯)",
+                      "style": {
+                        "bold": false,
+                        "weight": 400,
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 14,
+                        "fontFace": "MS PGothic"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "textbox",
+              "rect": [
+                43.8,
+                698.62,
+                129.02,
+                723.82
+              ],
+              "contents": [
+                {
+                  "type": "paragraph",
+                  "rect": [
+                    65.76,
+                    703.82,
+                    107.52,
+                    717.74
+                  ],
+                  "textStyle": {
+                    "italic": false,
+                    "underline": false
+                  },
+                  "contents": [
+                    {
+                      "type": "span",
+                      "rect": [
+                        65.76,
+                        703.82,
+                        107.52,
+                        717.74
+                      ],
+                      "text": "連絡先",
+                      "style": {
+                        "bold": false,
+                        "weight": 400,
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 14,
+                        "fontFace": "MS PGothic"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "textbox",
+              "rect": [
+                43.8,
+                655.18,
+                422.62,
+                697.78
+              ],
+              "contents": [
+                {
+                  "type": "paragraph",
+                  "rect": [
+                    45.24,
+                    663.98,
+                    418.5,
+                    689.66
+                  ],
+                  "textStyle": {
+                    "italic": false,
+                    "underline": false
+                  },
+                  "contents": [
+                    {
+                      "type": "span",
+                      "rect": [
+                        53.64,
+                        663.98,
+                        418.5,
+                        676.22
+                      ],
+                      "text": "日本の住民登録を抜いていない方の場合、提出先関係機関が、日本国",
+                      "style": {
+                        "bold": false,
+                        "weight": 400,
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 12,
+                        "fontFace": "MS PGothic"
+                      }
+                    },
+                    {
+                      "type": "span",
+                      "rect": [
+                        45.24,
+                        677.42,
+                        340.32,
+                        689.66
+                      ],
+                      "text": "大使館（総領事館）からの署名証明を要求していますか？",
+                      "style": {
+                        "bold": false,
+                        "weight": 400,
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 12,
+                        "fontFace": "MS PGothic"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "textbox",
+              "rect": [
+                129.86,
+                613.63,
+                536.4,
+                654.34
+              ],
+              "contents": [
+                {
+                  "type": "paragraph",
+                  "rect": [
+                    131.18,
+                    614.62,
+                    420.03,
+                    625.06
+                  ],
+                  "textStyle": {
+                    "italic": false,
+                    "underline": false
+                  },
+                  "contents": [
+                    {
+                      "type": "span",
+                      "rect": [
+                        131.18,
+                        614.62,
+                        420.03,
+                        625.06
+                      ],
+                      "text": "（○○法務局、○○運輸支局、○○銀行、司法書士、行政書士等）",
+                      "style": {
+                        "bold": false,
+                        "weight": 400,
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 10.5,
+                        "fontFace": "MS PGothic"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "textbox",
+              "rect": [
+                43.8,
+                613.63,
+                129.02,
+                654.34
+              ],
+              "contents": [
+                {
+                  "type": "paragraph",
+                  "rect": [
+                    63.6,
+                    626.66,
+                    105.36,
+                    640.58
+                  ],
+                  "textStyle": {
+                    "italic": false,
+                    "underline": false
+                  },
+                  "contents": [
+                    {
+                      "type": "span",
+                      "rect": [
+                        63.6,
+                        626.66,
+                        105.36,
+                        640.58
+                      ],
+                      "text": "提出先",
+                      "style": {
+                        "bold": false,
+                        "weight": 400,
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 14,
+                        "fontFace": "MS PGothic"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "textbox",
+              "rect": [
+                129.86,
+                568.51,
+                536.4,
+                612.79
+              ],
+              "contents": [
+                {
+                  "type": "paragraph",
+                  "rect": [
+                    131.18,
+                    569.5,
+                    451.14,
+                    579.94
+                  ],
+                  "textStyle": {
+                    "italic": false,
+                    "underline": false
+                  },
+                  "contents": [
+                    {
+                      "type": "span",
+                      "rect": [
+                        131.18,
+                        569.5,
+                        451.14,
+                        579.94
+                      ],
+                      "text": "(遺産分割協議書への署名、不動産登記、車の名義変更、銀行手続き等）",
+                      "style": {
+                        "bold": false,
+                        "weight": 400,
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 10.5,
+                        "fontFace": "MS PGothic"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "textbox",
+              "rect": [
+                43.8,
+                568.51,
+                129.02,
+                612.79
+              ],
+              "contents": [
+                {
+                  "type": "paragraph",
+                  "rect": [
+                    58.44,
+                    583.31,
+                    114.12,
+                    597.23
+                  ],
+                  "textStyle": {
+                    "italic": false,
+                    "underline": false
+                  },
+                  "contents": [
+                    {
+                      "type": "span",
+                      "rect": [
+                        58.44,
+                        583.31,
+                        114.12,
+                        597.23
+                      ],
+                      "text": "使用目的",
+                      "style": {
+                        "bold": false,
+                        "weight": 400,
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 14,
+                        "fontFace": "MS PGothic"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "textbox",
+              "rect": [
+                43.8,
+                449.95,
+                85.8,
+                507.19
+              ],
+              "contents": [
+                {
+                  "type": "paragraph",
+                  "rect": [
+                    44.16,
+                    471.23,
+                    85.92,
+                    485.15
+                  ],
+                  "textStyle": {
+                    "italic": false,
+                    "underline": false
+                  },
+                  "contents": [
+                    {
+                      "type": "span",
+                      "rect": [
+                        44.16,
+                        471.23,
+                        85.92,
+                        485.15
+                      ],
+                      "text": "現住所",
+                      "style": {
+                        "bold": false,
+                        "weight": 400,
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 14,
+                        "fontFace": "MS PGothic"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "textbox",
+              "rect": [
+                273.11,
+                416.87,
+                336.61,
+                449.53
+              ],
+              "contents": [
+                {
+                  "type": "paragraph",
+                  "rect": [
+                    277.13,
+                    418.41,
+                    332.81,
+                    447.21
+                  ],
+                  "textStyle": {
+                    "italic": false,
+                    "underline": false
+                  },
+                  "contents": [
+                    {
+                      "type": "span",
+                      "rect": [
+                        291.05,
+                        418.41,
+                        318.89,
+                        432.33
+                      ],
+                      "text": "日本",
+                      "style": {
+                        "bold": false,
+                        "weight": 400,
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 14,
+                        "fontFace": "MS PGothic"
+                      }
+                    },
+                    {
+                      "type": "span",
+                      "rect": [
+                        277.13,
+                        433.29,
+                        332.81,
+                        447.21
+                      ],
+                      "text": "旅券番号",
+                      "style": {
+                        "bold": false,
+                        "weight": 400,
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 14,
+                        "fontFace": "MS PGothic"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "textbox",
+              "rect": [
+                43.8,
+                395.69,
+                129.02,
+                416.45
+              ],
+              "contents": [
+                {
+                  "type": "paragraph",
+                  "rect": [
+                    57.36,
+                    398.73,
+                    115.36,
+                    412.65
+                  ],
+                  "textStyle": {
+                    "italic": false,
+                    "underline": false
+                  },
+                  "contents": [
+                    {
+                      "type": "span",
+                      "rect": [
+                        57.36,
+                        398.73,
+                        115.36,
+                        412.65
+                      ],
+                      "text": "ｱﾙﾌｧﾍﾞｯﾄ",
+                      "style": {
+                        "bold": false,
+                        "weight": 400,
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 14,
+                        "fontFace": "MS PGothic"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "textbox",
+              "rect": [
+                129.86,
+                352.49,
+                536.4,
+                394.85
+              ],
+              "contents": [
+                {
+                  "type": "paragraph",
+                  "rect": [
+                    131.18,
+                    354.2,
+                    409.41,
+                    363.8
+                  ],
+                  "textStyle": {
+                    "italic": false,
+                    "underline": false
+                  },
+                  "contents": [
+                    {
+                      "type": "span",
+                      "rect": [
+                        131.18,
+                        354.2,
+                        409.41,
+                        363.8
+                      ],
+                      "text": "（※読みやすい字体で原則として戸籍上の氏名を記入してください。）",
+                      "style": {
+                        "bold": false,
+                        "weight": 400,
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 9.5,
+                        "fontFace": "MS PGothic"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "textbox",
+              "rect": [
+                43.8,
+                352.49,
+                129.02,
+                394.85
+              ],
+              "contents": [
+                {
+                  "type": "paragraph",
+                  "rect": [
+                    51.48,
+                    366.09,
+                    121.08,
+                    380.01
+                  ],
+                  "textStyle": {
+                    "italic": false,
+                    "underline": false
+                  },
+                  "contents": [
+                    {
+                      "type": "span",
+                      "rect": [
+                        51.48,
+                        366.09,
+                        121.08,
+                        380.01
+                      ],
+                      "text": "申請人氏名",
+                      "style": {
+                        "bold": false,
+                        "weight": 400,
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 14,
+                        "fontFace": "MS PGothic"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

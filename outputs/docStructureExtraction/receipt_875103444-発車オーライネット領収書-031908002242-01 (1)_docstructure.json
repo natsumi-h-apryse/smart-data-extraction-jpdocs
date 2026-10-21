@@ -1,0 +1,1682 @@
+{
+  "properties": {
+    "producer": "StructuredOutput",
+    "coordinateSystem": "originTop",
+    "schemaVersion": "1.0"
+  },
+  "pages": [
+    {
+      "properties": {
+        "pageNumber": 1,
+        "rotation": 0,
+        "width": 595,
+        "height": 842
+      },
+      "elements": [
+        {
+          "type": "image",
+          "rect": [
+            386.9,
+            50,
+            566.64,
+            70.58
+          ]
+        },
+        {
+          "type": "paragraph",
+          "rect": [
+            30,
+            79.97,
+            72,
+            93.97
+          ],
+          "textStyle": {
+            "italic": false,
+            "underline": false
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                30,
+                79.97,
+                72,
+                93.97
+              ],
+              "text": "領収書",
+              "style": {
+                "bold": false,
+                "weight": 400,
+                "italic": false,
+                "underline": false,
+                "pointSize": 14,
+                "fontFace": "MS Gothic"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "rect": [
+            30,
+            99.97,
+            212,
+            113.97
+          ],
+          "textStyle": {
+            "italic": false,
+            "underline": false
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                30,
+                99.97,
+                212,
+                113.97
+              ],
+              "text": "スヌワルニルマルクマル\t様",
+              "style": {
+                "bold": false,
+                "weight": 400,
+                "italic": false,
+                "underline": false,
+                "pointSize": 14,
+                "fontFace": "MS Gothic"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "rect": [
+            29.04,
+            122.83,
+            196.37,
+            136.51
+          ],
+          "textStyle": {
+            "italic": false,
+            "underline": false
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                29.04,
+                122.83,
+                196.37,
+                136.51
+              ],
+              "text": "下記の通り、正に領収致しました。",
+              "style": {
+                "bold": false,
+                "weight": 400,
+                "italic": false,
+                "underline": false,
+                "pointSize": 10.5,
+                "fontFace": "Microsoft JhengHei UI"
+              }
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "rect": [
+            29.76,
+            153.46,
+            567.84,
+            253.21
+          ],
+          "trs": [
+            {
+              "type": "tr",
+              "rect": [
+                29.76,
+                153.46,
+                567.84,
+                214.86
+              ],
+              "tds": [
+                {
+                  "type": "th",
+                  "rect": [
+                    29.76,
+                    153.46,
+                    164.91,
+                    214.86
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "rowStart": 0,
+                  "colStart": 0,
+                  "contents": [
+                    {
+                      "type": "paragraph",
+                      "rect": [
+                        71.3,
+                        170.29,
+                        124.93,
+                        187.37
+                      ],
+                      "textStyle": {
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 11,
+                        "fontFace": "MS Gothic",
+                        "parentStyle": "Table Paragraph"
+                      },
+                      "contents": [
+                        {
+                          "type": "span",
+                          "rect": [
+                            71.3,
+                            170.29,
+                            124.93,
+                            187.37
+                          ],
+                          "text": "合計⾦額",
+                          "style": {
+                            "bold": true,
+                            "weight": 700,
+                            "italic": false,
+                            "underline": false,
+                            "pointSize": 13.5,
+                            "fontFace": "Microsoft JhengHei UI"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "th",
+                  "rect": [
+                    164.91,
+                    153.46,
+                    567.16,
+                    214.86
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "rowStart": 0,
+                  "colStart": 1,
+                  "contents": [
+                    {
+                      "type": "paragraph",
+                      "rect": [
+                        180,
+                        167.97,
+                        411,
+                        181.97
+                      ],
+                      "textStyle": {
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 11,
+                        "fontFace": "MS Gothic",
+                        "parentStyle": "Table Paragraph"
+                      },
+                      "contents": [
+                        {
+                          "type": "span",
+                          "rect": [
+                            180,
+                            167.97,
+                            411,
+                            181.97
+                          ],
+                          "text": "¥2,400－（10%対象消費税・税込み）",
+                          "style": {
+                            "bold": false,
+                            "weight": 400,
+                            "italic": false,
+                            "underline": false,
+                            "pointSize": 14,
+                            "fontFace": "MS Gothic"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "rect": [
+                        180,
+                        189.97,
+                        432,
+                        203.97
+                      ],
+                      "textStyle": {
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 11,
+                        "fontFace": "MS Gothic",
+                        "parentStyle": "Table Paragraph"
+                      },
+                      "contents": [
+                        {
+                          "type": "span",
+                          "rect": [
+                            180,
+                            189.97,
+                            432,
+                            203.97
+                          ],
+                          "text": "※但し、乗車券代として（PayPay決済）",
+                          "style": {
+                            "bold": false,
+                            "weight": 400,
+                            "italic": false,
+                            "underline": false,
+                            "pointSize": 14,
+                            "fontFace": "MS Gothic"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tr",
+              "rect": [
+                29.76,
+                214.86,
+                567.84,
+                252.41
+              ],
+              "tds": [
+                {
+                  "type": "td",
+                  "rect": [
+                    29.76,
+                    214.86,
+                    164.91,
+                    252.41
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "rowStart": 1,
+                  "colStart": 0,
+                  "contents": [
+                    {
+                      "type": "paragraph",
+                      "rect": [
+                        78.02,
+                        224.29,
+                        117.98,
+                        241.37
+                      ],
+                      "textStyle": {
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 11,
+                        "fontFace": "MS Gothic",
+                        "parentStyle": "Table Paragraph"
+                      },
+                      "contents": [
+                        {
+                          "type": "span",
+                          "rect": [
+                            78.02,
+                            224.29,
+                            117.98,
+                            241.37
+                          ],
+                          "text": "領収⽇",
+                          "style": {
+                            "bold": true,
+                            "weight": 700,
+                            "italic": false,
+                            "underline": false,
+                            "pointSize": 13.5,
+                            "fontFace": "Microsoft JhengHei UI"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "td",
+                  "rect": [
+                    164.91,
+                    214.86,
+                    567.16,
+                    252.41
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "rowStart": 1,
+                  "colStart": 1,
+                  "contents": [
+                    {
+                      "type": "paragraph",
+                      "rect": [
+                        180,
+                        225.97,
+                        278,
+                        239.97
+                      ],
+                      "textStyle": {
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 11,
+                        "fontFace": "MS Gothic",
+                        "parentStyle": "Table Paragraph"
+                      },
+                      "contents": [
+                        {
+                          "type": "span",
+                          "rect": [
+                            180,
+                            225.97,
+                            278,
+                            239.97
+                          ],
+                          "text": "2025年03月19日",
+                          "style": {
+                            "bold": false,
+                            "weight": 400,
+                            "italic": false,
+                            "underline": false,
+                            "pointSize": 14,
+                            "fontFace": "MS Gothic"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "columnWidths": [
+            135.15,
+            402.25
+          ]
+        },
+        {
+          "type": "table",
+          "rect": [
+            29.76,
+            268.33,
+            567.84,
+            607.62
+          ],
+          "trs": [
+            {
+              "type": "tr",
+              "rect": [
+                29.76,
+                268.33,
+                567.84,
+                305.98
+              ],
+              "tds": [
+                {
+                  "type": "td",
+                  "rect": [
+                    29.76,
+                    268.33,
+                    168.61,
+                    305.98
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "rowStart": 0,
+                  "colStart": 0,
+                  "contents": [
+                    {
+                      "type": "paragraph",
+                      "rect": [
+                        66.38,
+                        277.72,
+                        133.57,
+                        294.8
+                      ],
+                      "textStyle": {
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 11,
+                        "fontFace": "MS Gothic",
+                        "parentStyle": "Table Paragraph"
+                      },
+                      "contents": [
+                        {
+                          "type": "span",
+                          "rect": [
+                            66.38,
+                            277.72,
+                            133.57,
+                            294.8
+                          ],
+                          "text": "ご予約番号",
+                          "style": {
+                            "bold": true,
+                            "weight": 700,
+                            "italic": false,
+                            "underline": false,
+                            "pointSize": 13.5,
+                            "fontFace": "Microsoft JhengHei UI"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "td",
+                  "rect": [
+                    168.61,
+                    268.33,
+                    567.11,
+                    305.98
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "rowStart": 0,
+                  "colStart": 1,
+                  "contents": [
+                    {
+                      "type": "paragraph",
+                      "rect": [
+                        180,
+                        279.97,
+                        257,
+                        293.97
+                      ],
+                      "textStyle": {
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 11,
+                        "fontFace": "MS Gothic",
+                        "parentStyle": "Table Paragraph"
+                      },
+                      "contents": [
+                        {
+                          "type": "span",
+                          "rect": [
+                            180,
+                            279.97,
+                            257,
+                            293.97
+                          ],
+                          "text": "03198002242",
+                          "style": {
+                            "bold": false,
+                            "weight": 400,
+                            "italic": false,
+                            "underline": false,
+                            "pointSize": 14,
+                            "fontFace": "MS Gothic"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tr",
+              "rect": [
+                29.76,
+                305.98,
+                567.84,
+                343.53
+              ],
+              "tds": [
+                {
+                  "type": "td",
+                  "rect": [
+                    29.76,
+                    305.98,
+                    168.61,
+                    343.53
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "rowStart": 1,
+                  "colStart": 0,
+                  "contents": [
+                    {
+                      "type": "paragraph",
+                      "rect": [
+                        72.98,
+                        315.28,
+                        126.74,
+                        332.36
+                      ],
+                      "textStyle": {
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 11,
+                        "fontFace": "MS Gothic",
+                        "parentStyle": "Table Paragraph"
+                      },
+                      "contents": [
+                        {
+                          "type": "span",
+                          "rect": [
+                            72.98,
+                            315.28,
+                            126.74,
+                            332.36
+                          ],
+                          "text": "運賃⾦額",
+                          "style": {
+                            "bold": true,
+                            "weight": 700,
+                            "italic": false,
+                            "underline": false,
+                            "pointSize": 13.5,
+                            "fontFace": "Microsoft JhengHei UI"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "td",
+                  "rect": [
+                    168.61,
+                    305.98,
+                    567.11,
+                    343.53
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "rowStart": 1,
+                  "colStart": 1,
+                  "contents": [
+                    {
+                      "type": "paragraph",
+                      "rect": [
+                        180,
+                        317.97,
+                        236,
+                        331.97
+                      ],
+                      "textStyle": {
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 11,
+                        "fontFace": "MS Gothic",
+                        "parentStyle": "Table Paragraph"
+                      },
+                      "contents": [
+                        {
+                          "type": "span",
+                          "rect": [
+                            180,
+                            317.97,
+                            236,
+                            331.97
+                          ],
+                          "text": "¥2,400－",
+                          "style": {
+                            "bold": false,
+                            "weight": 400,
+                            "italic": false,
+                            "underline": false,
+                            "pointSize": 14,
+                            "fontFace": "MS Gothic"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tr",
+              "rect": [
+                29.76,
+                343.53,
+                567.84,
+                381.08
+              ],
+              "tds": [
+                {
+                  "type": "td",
+                  "rect": [
+                    29.76,
+                    343.53,
+                    168.61,
+                    381.08
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "rowStart": 2,
+                  "colStart": 0,
+                  "contents": [
+                    {
+                      "type": "paragraph",
+                      "rect": [
+                        39.48,
+                        352.84,
+                        160.3,
+                        369.92
+                      ],
+                      "textStyle": {
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 11,
+                        "fontFace": "MS Gothic",
+                        "parentStyle": "Table Paragraph"
+                      },
+                      "contents": [
+                        {
+                          "type": "span",
+                          "rect": [
+                            39.48,
+                            352.84,
+                            160.3,
+                            369.92
+                          ],
+                          "text": "その他手数料・料⾦",
+                          "style": {
+                            "bold": true,
+                            "weight": 700,
+                            "italic": false,
+                            "underline": false,
+                            "pointSize": 13.5,
+                            "fontFace": "Microsoft JhengHei UI"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "td",
+                  "rect": [
+                    168.61,
+                    343.53,
+                    567.11,
+                    381.08
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "rowStart": 2,
+                  "colStart": 1,
+                  "contents": [
+                    {
+                      "type": "paragraph",
+                      "rect": [
+                        180,
+                        355.97,
+                        208,
+                        369.97
+                      ],
+                      "textStyle": {
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 11,
+                        "fontFace": "MS Gothic",
+                        "parentStyle": "Table Paragraph"
+                      },
+                      "contents": [
+                        {
+                          "type": "span",
+                          "rect": [
+                            180,
+                            355.97,
+                            208,
+                            369.97
+                          ],
+                          "text": "¥0－",
+                          "style": {
+                            "bold": false,
+                            "weight": 400,
+                            "italic": false,
+                            "underline": false,
+                            "pointSize": 14,
+                            "fontFace": "MS Gothic"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tr",
+              "rect": [
+                29.76,
+                381.08,
+                567.84,
+                418.73
+              ],
+              "tds": [
+                {
+                  "type": "td",
+                  "rect": [
+                    29.76,
+                    381.08,
+                    168.61,
+                    418.73
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "rowStart": 3,
+                  "colStart": 0,
+                  "contents": [
+                    {
+                      "type": "paragraph",
+                      "rect": [
+                        46.2,
+                        390.52,
+                        153.58,
+                        407.6
+                      ],
+                      "textStyle": {
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 11,
+                        "fontFace": "MS Gothic",
+                        "parentStyle": "Table Paragraph"
+                      },
+                      "contents": [
+                        {
+                          "type": "span",
+                          "rect": [
+                            46.2,
+                            390.52,
+                            153.58,
+                            407.6
+                          ],
+                          "text": "ご利⽤往路路線名",
+                          "style": {
+                            "bold": true,
+                            "weight": 700,
+                            "italic": false,
+                            "underline": false,
+                            "pointSize": 13.5,
+                            "fontFace": "Microsoft JhengHei UI"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "td",
+                  "rect": [
+                    168.61,
+                    381.08,
+                    567.11,
+                    418.73
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "rowStart": 3,
+                  "colStart": 1,
+                  "contents": [
+                    {
+                      "type": "paragraph",
+                      "rect": [
+                        180,
+                        390.97,
+                        334,
+                        404.97
+                      ],
+                      "textStyle": {
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 11,
+                        "fontFace": "MS Gothic",
+                        "parentStyle": "Table Paragraph"
+                      },
+                      "contents": [
+                        {
+                          "type": "span",
+                          "rect": [
+                            180,
+                            390.97,
+                            334,
+                            404.97
+                          ],
+                          "text": "土浦つくば・成田空港線",
+                          "style": {
+                            "bold": false,
+                            "weight": 400,
+                            "italic": false,
+                            "underline": false,
+                            "pointSize": 14,
+                            "fontFace": "MS Gothic"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tr",
+              "rect": [
+                29.76,
+                418.73,
+                567.84,
+                456.28
+              ],
+              "tds": [
+                {
+                  "type": "td",
+                  "rect": [
+                    29.76,
+                    418.73,
+                    168.61,
+                    456.28
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "rowStart": 4,
+                  "colStart": 0,
+                  "contents": [
+                    {
+                      "type": "paragraph",
+                      "rect": [
+                        66.38,
+                        428.1,
+                        133.57,
+                        445.18
+                      ],
+                      "textStyle": {
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 11,
+                        "fontFace": "MS Gothic",
+                        "parentStyle": "Table Paragraph"
+                      },
+                      "contents": [
+                        {
+                          "type": "span",
+                          "rect": [
+                            66.38,
+                            428.1,
+                            133.57,
+                            445.18
+                          ],
+                          "text": "出発⽇／便",
+                          "style": {
+                            "bold": true,
+                            "weight": 700,
+                            "italic": false,
+                            "underline": false,
+                            "pointSize": 13.5,
+                            "fontFace": "Microsoft JhengHei UI"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "td",
+                  "rect": [
+                    168.61,
+                    418.73,
+                    567.11,
+                    456.28
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "rowStart": 4,
+                  "colStart": 1,
+                  "contents": [
+                    {
+                      "type": "paragraph",
+                      "rect": [
+                        180,
+                        430.97,
+                        348,
+                        444.97
+                      ],
+                      "textStyle": {
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 11,
+                        "fontFace": "MS Gothic",
+                        "parentStyle": "Table Paragraph"
+                      },
+                      "contents": [
+                        {
+                          "type": "span",
+                          "rect": [
+                            180,
+                            430.97,
+                            348,
+                            444.97
+                          ],
+                          "text": "2025年04月09日／\t0001便",
+                          "style": {
+                            "bold": false,
+                            "weight": 400,
+                            "italic": false,
+                            "underline": false,
+                            "pointSize": 14,
+                            "fontFace": "MS Gothic"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tr",
+              "rect": [
+                29.76,
+                456.28,
+                567.84,
+                493.83
+              ],
+              "tds": [
+                {
+                  "type": "td",
+                  "rect": [
+                    29.76,
+                    456.28,
+                    168.61,
+                    493.83
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "rowStart": 5,
+                  "colStart": 0,
+                  "contents": [
+                    {
+                      "type": "paragraph",
+                      "rect": [
+                        73.1,
+                        465.66,
+                        126.73,
+                        482.74
+                      ],
+                      "textStyle": {
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 11,
+                        "fontFace": "MS Gothic",
+                        "parentStyle": "Table Paragraph"
+                      },
+                      "contents": [
+                        {
+                          "type": "span",
+                          "rect": [
+                            73.1,
+                            465.66,
+                            126.73,
+                            482.74
+                          ],
+                          "text": "乗⾞区間",
+                          "style": {
+                            "bold": true,
+                            "weight": 700,
+                            "italic": false,
+                            "underline": false,
+                            "pointSize": 13.5,
+                            "fontFace": "Microsoft JhengHei UI"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "td",
+                  "rect": [
+                    168.61,
+                    456.28,
+                    567.11,
+                    493.83
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "rowStart": 5,
+                  "colStart": 1,
+                  "contents": [
+                    {
+                      "type": "paragraph",
+                      "rect": [
+                        180,
+                        469.97,
+                        390,
+                        483.97
+                      ],
+                      "textStyle": {
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 11,
+                        "fontFace": "MS Gothic",
+                        "parentStyle": "Table Paragraph"
+                      },
+                      "contents": [
+                        {
+                          "type": "span",
+                          "rect": [
+                            180,
+                            469.97,
+                            390,
+                            483.97
+                          ],
+                          "text": "つくばセンター⇒成田空港第2PTB",
+                          "style": {
+                            "bold": false,
+                            "weight": 400,
+                            "italic": false,
+                            "underline": false,
+                            "pointSize": 14,
+                            "fontFace": "MS Gothic"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tr",
+              "rect": [
+                29.76,
+                493.83,
+                567.84,
+                531.48
+              ],
+              "tds": [
+                {
+                  "type": "td",
+                  "rect": [
+                    29.76,
+                    493.83,
+                    168.61,
+                    531.48
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "rowStart": 6,
+                  "colStart": 0,
+                  "contents": [
+                    {
+                      "type": "paragraph",
+                      "rect": [
+                        79.82,
+                        503.34,
+                        119.78,
+                        520.42
+                      ],
+                      "textStyle": {
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 11,
+                        "fontFace": "MS Gothic",
+                        "parentStyle": "Table Paragraph"
+                      },
+                      "contents": [
+                        {
+                          "type": "span",
+                          "rect": [
+                            79.82,
+                            503.34,
+                            119.78,
+                            520.42
+                          ],
+                          "text": "発⾏⽇",
+                          "style": {
+                            "bold": true,
+                            "weight": 700,
+                            "italic": false,
+                            "underline": false,
+                            "pointSize": 13.5,
+                            "fontFace": "Microsoft JhengHei UI"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "td",
+                  "rect": [
+                    168.61,
+                    493.83,
+                    567.11,
+                    531.48
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "rowStart": 6,
+                  "colStart": 1,
+                  "contents": [
+                    {
+                      "type": "paragraph",
+                      "rect": [
+                        180,
+                        506.97,
+                        278,
+                        520.97
+                      ],
+                      "textStyle": {
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 11,
+                        "fontFace": "MS Gothic",
+                        "parentStyle": "Table Paragraph"
+                      },
+                      "contents": [
+                        {
+                          "type": "span",
+                          "rect": [
+                            180,
+                            506.97,
+                            278,
+                            520.97
+                          ],
+                          "text": "2025年03月19日",
+                          "style": {
+                            "bold": false,
+                            "weight": 400,
+                            "italic": false,
+                            "underline": false,
+                            "pointSize": 14,
+                            "fontFace": "MS Gothic"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tr",
+              "rect": [
+                29.76,
+                531.48,
+                567.84,
+                569.03
+              ],
+              "tds": [
+                {
+                  "type": "td",
+                  "rect": [
+                    29.76,
+                    531.48,
+                    168.61,
+                    569.03
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "rowStart": 7,
+                  "colStart": 0,
+                  "contents": [
+                    {
+                      "type": "paragraph",
+                      "rect": [
+                        73.1,
+                        540.9,
+                        126.73,
+                        557.98
+                      ],
+                      "textStyle": {
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 11,
+                        "fontFace": "MS Gothic",
+                        "parentStyle": "Table Paragraph"
+                      },
+                      "contents": [
+                        {
+                          "type": "span",
+                          "rect": [
+                            73.1,
+                            540.9,
+                            126.73,
+                            557.98
+                          ],
+                          "text": "発⾏番号",
+                          "style": {
+                            "bold": true,
+                            "weight": 700,
+                            "italic": false,
+                            "underline": false,
+                            "pointSize": 13.5,
+                            "fontFace": "Microsoft JhengHei UI"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "td",
+                  "rect": [
+                    168.61,
+                    531.48,
+                    567.11,
+                    569.03
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "rowStart": 7,
+                  "colStart": 1,
+                  "contents": [
+                    {
+                      "type": "paragraph",
+                      "rect": [
+                        180,
+                        544.97,
+                        306,
+                        558.97
+                      ],
+                      "textStyle": {
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 11,
+                        "fontFace": "MS Gothic",
+                        "parentStyle": "Table Paragraph"
+                      },
+                      "contents": [
+                        {
+                          "type": "span",
+                          "rect": [
+                            180,
+                            544.97,
+                            306,
+                            558.97
+                          ],
+                          "text": "2025031908002242-1",
+                          "style": {
+                            "bold": false,
+                            "weight": 400,
+                            "italic": false,
+                            "underline": false,
+                            "pointSize": 14,
+                            "fontFace": "MS Gothic"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tr",
+              "rect": [
+                29.76,
+                569.03,
+                567.84,
+                606.73
+              ],
+              "tds": [
+                {
+                  "type": "td",
+                  "rect": [
+                    29.76,
+                    569.03,
+                    168.61,
+                    606.73
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "rowStart": 8,
+                  "colStart": 0,
+                  "contents": [
+                    {
+                      "type": "paragraph",
+                      "rect": [
+                        73.1,
+                        578.49,
+                        126.73,
+                        595.57
+                      ],
+                      "textStyle": {
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 11,
+                        "fontFace": "MS Gothic",
+                        "parentStyle": "Table Paragraph"
+                      },
+                      "contents": [
+                        {
+                          "type": "span",
+                          "rect": [
+                            73.1,
+                            578.49,
+                            126.73,
+                            595.57
+                          ],
+                          "text": "登録番号",
+                          "style": {
+                            "bold": true,
+                            "weight": 700,
+                            "italic": false,
+                            "underline": false,
+                            "pointSize": 13.5,
+                            "fontFace": "Microsoft JhengHei UI"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "td",
+                  "rect": [
+                    168.61,
+                    569.03,
+                    567.11,
+                    606.73
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "rowStart": 8,
+                  "colStart": 1,
+                  "contents": [
+                    {
+                      "type": "paragraph",
+                      "rect": [
+                        180,
+                        579.97,
+                        278,
+                        593.97
+                      ],
+                      "textStyle": {
+                        "italic": false,
+                        "underline": false,
+                        "pointSize": 11,
+                        "fontFace": "MS Gothic",
+                        "parentStyle": "Table Paragraph"
+                      },
+                      "contents": [
+                        {
+                          "type": "span",
+                          "rect": [
+                            180,
+                            579.97,
+                            278,
+                            593.97
+                          ],
+                          "text": "T3030001082610",
+                          "style": {
+                            "bold": false,
+                            "weight": 400,
+                            "italic": false,
+                            "underline": false,
+                            "pointSize": 14,
+                            "fontFace": "MS Gothic"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "columnWidths": [
+            138.85,
+            398.5
+          ]
+        },
+        {
+          "type": "paragraph",
+          "rect": [
+            441.94,
+            640.35,
+            567.5,
+            653.65
+          ],
+          "textStyle": {
+            "italic": false,
+            "underline": false
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                441.94,
+                640.35,
+                567.5,
+                653.65
+              ],
+              "text": "発⾞オーライネット運営元",
+              "style": {
+                "bold": true,
+                "weight": 700,
+                "italic": false,
+                "underline": false,
+                "pointSize": 10.5,
+                "fontFace": "Microsoft JhengHei UI"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "rect": [
+            305.23,
+            657.63,
+            567.96,
+            671.31
+          ],
+          "textStyle": {
+            "italic": false,
+            "underline": false
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                305.23,
+                657.63,
+                567.96,
+                671.31
+              ],
+              "text": "バス乗⾞券・鉄道乗⾞券代⾦代理受領者\t株式会社⼯房",
+              "style": {
+                "bold": false,
+                "weight": 400,
+                "italic": false,
+                "underline": false,
+                "pointSize": 10.5,
+                "fontFace": "Microsoft JhengHei UI"
+              }
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "rect": [
+            464.76,
+            675.2,
+            473.76,
+            684.2
+          ]
+        },
+        {
+          "type": "paragraph",
+          "rect": [
+            361.75,
+            672.51,
+            567.48,
+            686.19
+          ],
+          "textStyle": {
+            "italic": false,
+            "underline": false
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                361.75,
+                672.51,
+                567.48,
+                686.19
+              ],
+              "text": "〒332-0012\t埼⽟県⼝市本町3丁⽬2-22",
+              "style": {
+                "bold": false,
+                "weight": 400,
+                "italic": false,
+                "underline": false,
+                "pointSize": 10.5,
+                "fontFace": "Microsoft JhengHei UI"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "rect": [
+            338.83,
+            689.91,
+            567.53,
+            703.59
+          ],
+          "textStyle": {
+            "italic": false,
+            "underline": false
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                338.83,
+                689.91,
+                433.52,
+                703.59
+              ],
+              "text": "発⾞オーライネット",
+              "style": {
+                "bold": false,
+                "weight": 400,
+                "italic": false,
+                "underline": false,
+                "pointSize": 10.5,
+                "fontFace": "Microsoft JhengHei UI"
+              }
+            },
+            {
+              "type": "span",
+              "rect": [
+                436.18,
+                689.91,
+                567.53,
+                703.59
+              ],
+              "url": "https://secure.j-bus.co.jp/",
+              "text": "https://secure.j-bus.co.jp",
+              "style": {
+                "bold": false,
+                "weight": 400,
+                "italic": false,
+                "underline": false,
+                "pointSize": 10.5,
+                "fontFace": "Microsoft JhengHei UI"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "properties": {
+        "pageNumber": 2,
+        "rotation": 0,
+        "width": 612,
+        "height": 792
+      },
+      "elements": [
+        {
+          "type": "paragraph",
+          "rect": [
+            36,
+            38.46,
+            257.28,
+            49.46
+          ],
+          "textStyle": {
+            "bold": true,
+            "weight": 700,
+            "italic": false,
+            "underline": false,
+            "pointSize": 11,
+            "fontFace": "Arial",
+            "parentStyle": "Body Text"
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                36,
+                38.46,
+                257.28,
+                49.46
+              ],
+              "text": "Apryse Data Extraction Module trial mode.",
+              "style": {
+                "bold": true,
+                "weight": 700,
+                "italic": false,
+                "underline": false,
+                "pointSize": 11,
+                "fontFace": "Arial"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "rect": [
+            36,
+            58.46,
+            492.65,
+            69.46
+          ],
+          "textStyle": {
+            "bold": true,
+            "weight": 700,
+            "italic": false,
+            "underline": false,
+            "pointSize": 11,
+            "fontFace": "Arial",
+            "parentStyle": "Body Text"
+          },
+          "contents": [
+            {
+              "type": "span",
+              "rect": [
+                36,
+                58.46,
+                492.65,
+                69.46
+              ],
+              "text": "The trial is limited to 100 pages and will insert extra pages into the result (like this one).",
+              "style": {
+                "bold": true,
+                "weight": 700,
+                "italic": false,
+                "underline": false,
+                "pointSize": 11,
+                "fontFace": "Arial"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

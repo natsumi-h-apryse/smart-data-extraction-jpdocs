@@ -1,0 +1,42 @@
+{
+  "properties": {
+    "producer": "documentClassification",
+    "schemaVersion": "1.0",
+    "coordinateSystem": "originTop"
+  },
+  "runInfo": {
+    "warnings": [
+      "Apryse AI trial mode."
+    ],
+    "producerPlatform": "Linux",
+    "producerVersion": "2.2.3-66ca186"
+  },
+  "pages": [
+    {
+      "properties": {
+        "pageNumber": 1
+      },
+      "documentClasses": [
+        {
+          "type": "government_tenders",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "properties": {
+        "pageNumber": 2
+      },
+      "documentClasses": [
+        {
+          "type": "patents",
+          "confidence": 0.45
+        },
+        {
+          "type": "scientific_report",
+          "confidence": 0.367
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+npm-debug.log*
+.env
+# 運転免許証は個人情報を含むため、入力 PDF と出力ファイルをすべて除外
+*driverslicense*
+# 電気料金の請求書も個人情報を含むため、入力 PDF と出力ファイルをすべて除外
+*invoice_B003028840*

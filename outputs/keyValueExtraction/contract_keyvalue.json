@@ -1,0 +1,28 @@
+{
+  "properties": {
+    "producer": "keyValExtract",
+    "schemaVersion": "1.0",
+    "coordinateSystem": "originTop"
+  },
+  "runInfo": {
+    "warnings": [
+      "Apryse AI trial mode."
+    ],
+    "producerPlatform": "Linux",
+    "producerVersion": "2.2.3-66ca186"
+  },
+  "pages": [
+    {
+      "properties": {
+        "pageNumber": 1
+      },
+      "keyValueElements": []
+    },
+    {
+      "properties": {
+        "pageNumber": 2
+      },
+      "keyValueElements": []
+    }
+  ]
+}

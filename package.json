@@ -1,0 +1,19 @@
+{
+  "name": "sde-jp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Apryse Smart Data Extraction の日本語ドキュメント検証サンプル（分類・KVE・表・構造・フォーム検出）",
+  "license": "UNLICENSED",
+  "type": "module",
+  "scripts": {
+    "docker:build": "docker build -t sde-jp .",
+    "classify": "docker run --rm --env-file .env -v \"$PWD/outputs:/app/outputs\" sde-jp node docclassification.js",
+    "kve": "docker run --rm --env-file .env -v \"$PWD/outputs:/app/outputs\" sde-jp node keyvalueextraction.js",
+    "tabular": "docker run --rm --env-file .env -v \"$PWD/outputs:/app/outputs\" sde-jp node tabularextraction.js",
+    "docstructure": "docker run --rm --env-file .env -v \"$PWD/outputs:/app/outputs\" sde-jp node docstructureextraction.js",
+    "formfields": "docker run --rm --env-file .env -v \"$PWD/outputs:/app/outputs\" sde-jp node formfielddetection.js"
+  },
+  "dependencies": {
+    "@pdftron/pdfnet-node": "12.1.0"
+  }
+}

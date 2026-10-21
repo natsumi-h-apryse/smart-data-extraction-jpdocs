@@ -1,0 +1,100 @@
+{
+  "properties": {
+    "producer": "formExtract",
+    "schemaVersion": "1.0",
+    "coordinateSystem": "originTop"
+  },
+  "runInfo": {
+    "warnings": [
+      "Apryse AI trial mode."
+    ],
+    "producerPlatform": "Linux",
+    "producerVersion": "2.2.3-66ca186"
+  },
+  "pages": [
+    {
+      "properties": {
+        "pageNumber": 1
+      },
+      "formElements": [
+        {
+          "type": "formTextField",
+          "confidence": 0.949,
+          "rect": [
+            46.637,
+            52.355,
+            537.76,
+            577.817
+          ]
+        }
+      ]
+    },
+    {
+      "properties": {
+        "pageNumber": 2
+      },
+      "formElements": [
+        {
+          "type": "formTextField",
+          "confidence": 0.786,
+          "rect": [
+            438.39,
+            134.585,
+            455.602,
+            148.752
+          ]
+        },
+        {
+          "type": "formTextField",
+          "confidence": 0.686,
+          "rect": [
+            458.639,
+            133.573,
+            515.336,
+            151.788
+          ]
+        },
+        {
+          "type": "formTextField",
+          "confidence": 0.544,
+          "rect": [
+            120.481,
+            218.575,
+            552.797,
+            239.825
+          ]
+        },
+        {
+          "type": "formTextField",
+          "confidence": 0.839,
+          "rect": [
+            119.468,
+            238.813,
+            561.909,
+            260.064
+          ]
+        },
+        {
+          "type": "formTextField",
+          "confidence": 0.508,
+          "rect": [
+            318.921,
+            449.293,
+            606.456,
+            469.532
+          ]
+        },
+        {
+          "type": "formTextField",
+          "confidence": 0.702,
+          "rect": [
+            108.332,
+            496.854,
+            385.743,
+            520.128
+          ]
+        }
+      ]
+    }
+  ]
+}
