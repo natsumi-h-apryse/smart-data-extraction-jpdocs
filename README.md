@@ -1,4 +1,4 @@
-# sde-jp — Smart Data Extraction on Japanese Documents
+# Smart Data Extraction on Japanese Documents
 
 Samples for running and evaluating Smart Data Extraction (the Data Extraction module) in the Apryse Server SDK against Japanese documents.
 
