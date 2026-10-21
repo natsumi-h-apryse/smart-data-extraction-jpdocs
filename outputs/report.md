@@ -31,15 +31,15 @@
 
 | Document                                  | Content                                                         | Text layer                  | Classification                 | KVE | Table | Structure | Form fields |
 | ----------------------------------------- | --------------------------------------------------------------- | --------------------------- | ------------------------------ | --- | ----- | --------- | ----------- |
-| contract.pdf                              | Master service agreement (scanned)                              | Existing (OCR at scan time) | Incorrect (resume)             | -   | -     | ▲         | -           |
-| driverslicense-ocr-ed.pdf                 | Driver's license (photo)                                        | IRIS OCR + manual fixes     | Incorrect (receipt)            | △   | △     | ☓         | -           |
-| form/attorney.pdf                         | Power of attorney (blank template)                              | Digitally generated         | Incorrect (patents)            | △   | ▲     | ◯         | ▲           |
+| contract.pdf                              | Master service agreement (scanned)                              | Existing (OCR at scan time) | **Incorrect** (resume)             | -   | -     | ▲         | -           |
+| driverslicense-ocr-ed.pdf                 | Driver's license (photo)                                        | IRIS OCR + manual fixes     | **Incorrect** (receipt)            | △   | △     | ☓         | -           |
+| form/attorney.pdf                         | Power of attorney (blank template)                              | Digitally generated         | **Incorrect** (patents)            | △   | ▲     | ◯         | ▲           |
 | form/medicalform_ocr_ed.pdf               | Assisted reproductive treatment plan and consent form (scanned) | IRIS OCR + manual fixes     | Acceptable (legal_documents)   | △   | △     | ☓         | △           |
-| form/register_of_marriage.pdf             | Marriage registration form (for overseas missions, A3, blank)   | Digitally generated         | Incorrect (government_tenders) | ▲   | ▲     | ▲         | △           |
+| form/register_of_marriage.pdf             | Marriage registration form (for overseas missions, A3, blank)   | Digitally generated         | **Incorrect** (government_tenders) | ▲   | ▲     | ▲         | △           |
 | form/syomei.pdf                           | Application for signature (and thumbprint) certificate (blank)  | Digitally generated         | Correct (form)                 | △   | △     | △         | △           |
-| invoice-57-….pdf                          | Receipt for a lounge fee (file name says invoice)               | Digitally generated         | Incorrect (scientific_report)  | ▲   | ▲     | ◯         | -           |
-| invoice_B003028840.pdf                    | Electricity bill                                                | Digitally generated         | Incorrect (financial_reports)  | △   | ◯     | ◯         | -           |
-| receipt_875103444-発車オーライネット….pdf | Receipt for a highway bus ticket                                | Digitally generated         | Incorrect (form)               | ◯   | ◯     | ◯         | -           |
+| invoice-57-….pdf                          | Receipt for a lounge fee (file name says invoice)               | Digitally generated         | **Incorrect** (scientific_report)  | ▲   | ▲     | ◯         | -           |
+| invoice_B003028840.pdf                    | Electricity bill                                                | Digitally generated         | **Incorrect** (financial_reports)  | △   | ◯     | ◯         | -           |
+| receipt_875103444-発車オーライネット….pdf | Receipt for a highway bus ticket                                | Digitally generated         | **Incorrect** (form)               | ◯   | ◯     | ◯         | -           |
 | receipt_ocr-ed_iris.pdf                   | Osaka Monorail IC card top-up receipt (photo)                   | IRIS OCR + manual fixes     | Correct (receipt)              | △   | ▲     | ☓         | -           |
 
 ## 3. Document classification

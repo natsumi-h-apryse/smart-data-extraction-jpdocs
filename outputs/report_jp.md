@@ -33,15 +33,15 @@
 
 | ドキュメント | 内容 | テキスト層 | 分類 | KVE | 表抽出 | 構造抽出 | フォーム検出 |
 |---|---|---|---|---|---|---|---|
-| contract.pdf | 業務委託基本契約書（スキャン） | 既存（スキャン時の OCR） | 不正解（resume） | - | - | ▲ | - |
-| driverslicense-ocr-ed.pdf | 運転免許証（写真） | IRIS OCR＋手修正 | 不正解（receipt） | △ | △ | ☓ | - |
-| form/attorney.pdf | 委任状（未記入テンプレート） | デジタル生成 | 不正解（patents） | △ | ▲ | ◯ | ▲ |
+| contract.pdf | 業務委託基本契約書（スキャン） | 既存（スキャン時の OCR） | **不正解**（resume） | - | - | ▲ | - |
+| driverslicense-ocr-ed.pdf | 運転免許証（写真） | IRIS OCR＋手修正 | **不正解**（receipt） | △ | △ | ☓ | - |
+| form/attorney.pdf | 委任状（未記入テンプレート） | デジタル生成 | **不正解**（patents） | △ | ▲ | ◯ | ▲ |
 | form/medicalform_ocr_ed.pdf | 生殖補助医療 診療計画書・同意書（スキャン） | IRIS OCR＋手修正 | 許容（legal_documents） | △ | △ | ☓ | △ |
-| form/register_of_marriage.pdf | 婚姻届（在外公館用・A3・未記入） | デジタル生成 | 不正解（government_tenders） | ▲ | ▲ | ▲ | △ |
+| form/register_of_marriage.pdf | 婚姻届（在外公館用・A3・未記入） | デジタル生成 | **不正解**（government_tenders） | ▲ | ▲ | ▲ | △ |
 | form/syomei.pdf | 署名（及び拇印）証明申請書（未記入） | デジタル生成 | 正解（form） | △ | △ | △ | △ |
-| invoice-57-….pdf | ラウンジ利用料の領収書（ファイル名は invoice） | デジタル生成 | 不正解（scientific_report） | ▲ | ▲ | ◯ | - |
-| invoice_B003028840.pdf | 電気料金の請求書 | デジタル生成 | 不正解（financial_reports） | △ | ◯ | ◯ | - |
-| receipt_875103444-発車オーライネット….pdf | 高速バス乗車券の領収書 | デジタル生成 | 不正解（form） | ◯ | ◯ | ◯ | - |
+| invoice-57-….pdf | ラウンジ利用料の領収書（ファイル名は invoice） | デジタル生成 | **不正解**（scientific_report） | ▲ | ▲ | ◯ | - |
+| invoice_B003028840.pdf | 電気料金の請求書 | デジタル生成 | **不正解**（financial_reports） | △ | ◯ | ◯ | - |
+| receipt_875103444-発車オーライネット….pdf | 高速バス乗車券の領収書 | デジタル生成 | **不正解**（form） | ◯ | ◯ | ◯ | - |
 | receipt_ocr-ed_iris.pdf | 大阪モノレール IC チャージ領収証（写真） | IRIS OCR＋手修正 | 正解（receipt） | △ | ▲ | ☓ | - |
 
 ## 3. ドキュメント分類
