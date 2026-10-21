@@ -25,7 +25,6 @@
 2. **KVE and table extraction gave relatively good results only on tabular forms with ruled lines** (the bus receipt and the electricity bill details). Even there, wrong pairs and empty values appear. Documents without ruled lines and colon-separated fields have many omissions; out of 9 documents, only 1 got ◯ for KVE and 2 for table extraction.
 3. **Structure extraction works only on some digitally generated PDFs, and returns no text for OCR'd scanned PDFs.** The invisible text layer added by IRIS OCR is used by KVE, table extraction and classification, but DocStructure ignored it and treated the pages as images (all 3 documents). Only the scanned contract was re-read with the built-in OCR, and the result has many misrecognized characters.
 4. **Form field detection mostly finds input fields enclosed by ruled lines** (marriage registration form, signature certificate application). However, some checkboxes, already-checked fields and the placement of signature fields are wrong, so the output PDF needs manual fixes to its fields.
-5. **The quality of the Japanese text itself** barely degrades for digitally generated PDFs and for PDFs OCR'd with IRIS and manually fixed. Differences in accuracy come mainly from how the layout is interpreted.
 
 ## 2. Overall results
 
